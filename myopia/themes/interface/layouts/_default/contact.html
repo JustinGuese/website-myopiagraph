@@ -144,6 +144,19 @@
                     </div>
                   </div>
                 {{ end }}
+                {{ with .phone2 }}
+                  <div class="d-flex">
+                    <i class="me-3 text-primary fas fa-phone"></i>
+                    <div>
+                      <span class="fw-bold d-block lh-1 text-black mb-2">
+                        {{ i18n `phone2` }}
+                      </span>
+                      <a href="tel:{{ . }}" class="text-muted">
+                        {{ . | markdownify }}
+                      </a>
+                    </div>
+                  </div>
+                {{ end }}
               {{ end }}
 
 

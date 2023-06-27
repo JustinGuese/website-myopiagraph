@@ -17,49 +17,20 @@ url = "pricing/"
 weight = 3
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "FAQ"
+url = "pricing/#faq"
 weight = 4
 
 [[main]]
-name = "Career"
-url = "career/"
-weight = 5
-
-[[main]]
-weight = 6
 name = "Pages"
+url = "blog/"
+weight = 5
 hasChildren = true
 
 [[main]]
+name = "Privacy Policy"
+url = "privacy-policy/"
 parent = "Pages"
-name = "Elements"
-url = "elements/"
-weight = 1
-
-[[main]]
-parent = "Pages"
-name = "Changelog"
-url = "changelog/"
-weight = 2
-
-[[main]]
-parent = "Pages"
-name = "Blog Single"
-url = "blog/post-1/"
-weight = 3
-
-[[main]]
-parent = "Pages"
-name = "Author Single"
-url = "author/soophie-moore/"
-weight = 4
-
-[[main]]
-parent = "Pages"
-name = "Career Single"
-url = "career/people-program-management-leader/"
-weight = 5
 
 [[main]]
 name = "Contact"
@@ -81,10 +52,6 @@ name = "Blog"
 url = "blog/"
 weight = 20
 
-[[footer]]
-name = "Career"
-url = "career/"
-weight = 30
 
 [[footer]]
 name = "Contact"

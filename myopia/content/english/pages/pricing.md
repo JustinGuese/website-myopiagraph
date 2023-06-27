@@ -9,40 +9,53 @@ pricing:
   subtitle: "Pricing"
 
   custom_plan:
-    title: "Didn’t find the best Plan??"
+    title: "Didn't find what's right for you?"
     button:
       label: "Contact Us"
       link: "contact/"
 
   fixed_plans:
+    - title: "Free Plan"
+      subtitle: "Up to 10 patients for free, watermarks"
+      price: "0€"
+      price_per: "Month"
+      button:
+        label: "Get Started"
+        link: "contact/"
+
     - title: "Basic Plan"
-      subtitle: "Lorem ipsum dolor sit ametn"
-      price: "$10"
+      subtitle: "100 patients/year included, each additional patient 10€/year"
+      price: "49€"
       price_per: "Month"
       button:
         label: "Get Started"
         link: "contact/"
 
-    - title: "Business Plan"
-      subtitle: "Lorem ipsum dolor sit ametn"
-      price: "$29"
+    - title: "Premium Plan"
+      subtitle: "All patients included, archival, extended logging and security"
+      price: "149€"
       price_per: "Month"
       button:
         label: "Get Started"
         link: "contact/"
 
-    - title: "Enterprise Plan"
-      subtitle: "Lorem ipsum dolor sit ametn"
-      price: "$49"
-      price_per: "Month"
-      button:
-        label: "Get Started"
-        link: "contact/"
-  
   # fixed plans features
   fixed_plan_rows:
   # table row
-  - title: "Documentation"
+  - title: "Email Support"
+    features:
+    - name: "Basic"
+      availability: true
+
+    - name: "Business"
+      availability: true
+
+    - name: "Enterprise"
+      availability: true
+  
+
+  # table row
+  - title: "Myopiagraph functionality"
     features:
     - name: "Basic"
       availability: true
@@ -54,10 +67,22 @@ pricing:
       availability: true
 
   # table row
-  - title: "Mobile App"
+  - title: "Nr of patients flatrate"
     features:
     - name: "Basic"
+      availability: false
+
+    - name: "Business"
+      availability: false
+
+    - name: "Enterprise"
       availability: true
+
+  # table row
+  - title: "Phone support"
+    features:
+    - name: "Basic"
+      availability: false
 
     - name: "Business"
       availability: true
@@ -66,19 +91,7 @@ pricing:
       availability: true
 
   # table row
-  - title: "Tags"
-    features:
-    - name: "Basic"
-      availability: true
-
-    - name: "Business"
-      availability: true
-
-    - name: "Enterprise"
-      availability: true
-      
-  # table row
-  - title: "Sentiment analysis"
+  - title: "Free Onboarding Workshop"
     features:
     - name: "Basic"
       availability: false
@@ -90,49 +103,13 @@ pricing:
       availability: true
       
   # table row
-  - title: "Social Media Reach"
+  - title: "24/7 helpdesk"
     features:
     - name: "Basic"
       availability: false
 
     - name: "Business"
       availability: false
-
-    - name: "Enterprise"
-      availability: true
-      
-  # table row
-  - title: "Extending limits"
-    features:
-    - name: "Basic"
-      availability: false
-
-    - name: "Business"
-      availability: false
-
-    - name: "Enterprise"
-      availability: true
-      
-  # table row
-  - title: "Chat Support"
-    features:
-    - name: "Basic"
-      availability: false
-
-    - name: "Business"
-      availability: true
-
-    - name: "Enterprise"
-      availability: true
-      
-  # table row
-  - title: "System analysis"
-    features:
-    - name: "Basic"
-      availability: true
-
-    - name: "Business"
-      availability: true
 
     - name: "Enterprise"
       availability: true

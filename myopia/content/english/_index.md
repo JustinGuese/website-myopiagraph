@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "A Stunning Presentation **Made For Everyone**"
-  subtitle: "Simplify Financial Management"
+  title: "Revolutionizing **Myopia** Management for Children"
+  subtitle: "Nurturing Young Vision"
   buttons:
     - label: "Get started for Free"
       link: "contact/"
@@ -22,7 +22,7 @@ reviews:
       image: "images/reviews/trustpilot.png"
       link: "#"
       
-    - title: "Brilliantly SAFE!"
+    - title: "Fulfills all regulations"
       image: "images/reviews/surly.png"
       link: "#"
 
@@ -36,95 +36,89 @@ reviews:
 
 # marketing tools
 marketing_tools:
-  title: "Manage your farm revenues"
-  subtitle: "Let’s Simplify & Automate Your Marketing Campaigns"
+  title: "Manage Myopia all in one place"
+  subtitle: "Tracking, Analysis, Visualization and training offered in one tool."
 
   tools_list:
-    - icon: "images/marketing-tools/01.png"
-      title: "Heavy web apps, meet google calender"
-      image: "images/dashboard-interface.jpg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    - icon: "images/myopia/write-icon.png"
+      title: "Track the Myopia progress"
+      image: "images/myopia/data-entry.png"
+      content: "Introducing Myopiagraph, the cutting-edge solution that has revolutionized myopia management in children. Developed in close collaboration with doctors and medical experts, our tool offers a seamless and effortless approach to tracking myopia progression while ensuring error-free data entry."
 
-    - icon: "images/marketing-tools/02.png"
-      title: "Heavy web apps, meet Notion"
-      image: "images/dashboard-interface.jpg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    - icon: "images/myopia/graph-icon.png"
+      title: "Visualize the progress"
+      image: "images/myopia/graphs.png"
+      content: "Myopiagraph empowers doctors to unlock a new level of understanding and analysis in myopia management. By harnessing the power of advanced technology and incorporating the latest research findings, our tool offers an immersive visualization of myopia progress in children."
 
-    - icon: "images/marketing-tools/03.png"
-      title: "Heavy web apps, meet LinkedIn"
-      image: "images/dashboard-interface.jpg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    - icon: "images/myopia/prescription-icon.png"
+      title: "Track therapies and diagnosis"
+      image: "images/myopia/therapies.png"
+      content: "With Myopiagraph, doctors can effortlessly track therapies and diagnosis for their patients. Our intuitive platform allows for seamless documentation and analysis of treatment plans, ensuring that every step of the myopia management journey is carefully monitored. From tracking the effectiveness of different interventions to evaluating the progress of individual patients, Myopiagraph provides a comprehensive toolkit for doctors to make data-driven decisions and optimize outcomes. With streamlined tracking capabilities, doctors can focus on delivering the best possible care while having confidence in the accuracy and efficiency of their documentation and analysis."
 
-    - icon: "images/marketing-tools/04.png"
-      title: "Heavy web apps, meet Google"
-      image: "images/dashboard-interface.jpg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    - icon: "images/myopia/report-icon.png"
+      title: "Print out reports for your patients"
+      image: "images/myopia/report.png"
+      content: "Enhance Patient Care with Myopiagraph's Report Print Functionality: Empower Patients with Personalized Handouts for Understanding and Support.
 
-    - icon: "images/marketing-tools/05.png"
-      title: "Heavy web apps, meet Google"
-      image: "images/dashboard-interface.jpg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+Myopiagraph offers a convenient report print feature that enables doctors to generate personalized handouts for patients. These reports provide a clear and concise summary of the patient's myopia management journey, treatment plans, and recommendations.
 
-    - icon: "images/marketing-tools/06.png"
-      title: "Heavy web apps, meet Asana"
-      image: "images/dashboard-interface.jpg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+With a few clicks, doctors can create visually appealing handouts that educate patients about their condition and make them feel supported. By providing tangible documentation, patients gain a deeper understanding of their eye health and the steps being taken to manage their myopia."
 
-    - icon: "images/marketing-tools/07.png"
-      title: "Heavy web apps, meet Spotify"
-      image: "images/dashboard-interface.jpg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+    - icon: "images/myopia/login-icon.png"
+      title: "User and Role managemement"
+      image: "images/myopia/login.png"
+      content: "Robust User Management & Roles: Myopiagraph implements secure user management with role-based access control. Each user's actions are tracked and logged for enhanced data security and compliance. Administrators can easily manage user accounts and assign access levels to ensure confidentiality. The system maintains an audit trail for comprehensive monitoring and traceability. With precise controls and monitoring, Myopiagraph provides a secure environment for managing patient data."
 
 
 # services
 services:
-  title: "We have the services you need to get"
-  subtitle: "Integrated With the Tools You Know and Love"
+  title: "We offer educational material and training as well."
+  subtitle: "Why should you offer Myopia Management?"
 
   service_list:
-    - title: "Industry standard"
+    - title: "Customized Implementation Plan"
       icon: "fa-solid fa-check-to-slot"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
+      content: "We understand that every practice is unique. Our team will work closely with you to develop a tailored implementation plan that aligns with your specific needs and goals. We provide guidance on integrating Myopiagraph into your existing workflow and optimizing its use for maximum efficiency."
       buttons:
         - label: "Request a demo"
           link: "#"
-        - label: "Get started  now"
+        - label: "Contact "
           link: "#"
           
-    - title: "Marketing Agencies"
-      icon: "fa-solid fa-chart-simple"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Get started  now"
-          link: "#"
-          
-    - title: "designing team"
+    - title: "Training and Education"
       icon: "fa-solid fa-people-group"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
+      content: "We offer comprehensive training programs designed to equip doctors with the knowledge and skills required for successful myopia management. From assessment techniques to treatment strategies and patient communication, our training ensures that doctors are well-prepared to integrate myopia management into their practice."
       buttons:
         - label: "Request a demo"
           link: "#"
-        - label: "Get started  now"
+        - label: "Contact"
           link: "#"
           
-    - title: "planning events"
+    - title: "Financial planning"
+      icon: "fa-solid fa-chart-simple"
+      content: " Myopiagraph offers personalized financial planning services to help you determine the budget required and potential earnings from myopia management. Through collaborative discussions, we assess your unique financial circumstances and practice goals. We provide insights and industry benchmarks to inform your decision-making process. Our team assists in estimating revenue streams, considering patient demand, pricing structures, and long-term patient retention. With a realistic financial projection, you can make informed decisions and optimize revenue generation while offering myopia management services."
+      buttons:
+        - label: "Request a demo"
+          link: "#"
+        - label: "Contact"
+          link: "#"
+          
+    - title: "Marketing Materials"
       icon: "fa-solid fa-chart-bar"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
+      content: "We provide a range of marketing materials, patient education resources, and informational content to support your efforts in promoting myopia management services. These materials are designed to educate and engage patients, helping them understand the importance of myopia management and the benefits of your services."
       buttons:
         - label: "Request a demo"
           link: "#"
-        - label: "Get started  now"
+        - label: "Contact"
           link: "#"
           
-    - title: "Manipulate database"
+    - title: "Technical Support"
       icon: "fa-solid fa-layer-group"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
+      content: "Our dedicated technical support team is always available to assist with any questions or concerns you may have during the implementation process. From initial setup to troubleshooting, we are here to ensure a smooth and hassle-free experience."
       buttons:
         - label: "Request a demo"
           link: "#"
-        - label: "Get started  now"
+        - label: "Contact"
           link: "#"
 
 
@@ -185,6 +179,6 @@ how_it_works:
 testimonials:
   enable: true
   title: "customer’s testimonial"
-  subtitle: "What Our Great Customers are Saying"
-  image: "images/testimonial-img.png"
+  subtitle: "What Our Customers are saying"
+  image: "images/myopia/doctor.webp"
 ---

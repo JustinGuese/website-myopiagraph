@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  title: "Ready For Internal Tool That Fits All Your Needs?"
-  subtitle: "Presentation Made together"
+  title: "Discover how Myopiagraph can elevate your practice and enhance treatment outcomes"
+  subtitle: "Request a demo of Myopiagraph today and revolutionize your patient care."
   buttons:
     - label: "Pricing"
       link: "pricing/"

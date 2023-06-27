@@ -6,8 +6,9 @@ layout: "contact"
 
 contact_info:
   title: "Contact information"
-  address: "9567 Turner Trace Apt. BC C3G8A4"
-  phone: "+211234565523"
-  email: "info@email.com"
-  description: "We' love to hear from you. Our friendly team is always here to chat."
+  address: "DataFortress.cloud UG, Augsburg, Germany"
+  phone: "+491601136770"
+  phone2: "+1 650 382 0775"
+  email: "myopia@datafortress.cloud"
+  description: "Myopiagraph is a product of DataFortress.cloud"
 ---
