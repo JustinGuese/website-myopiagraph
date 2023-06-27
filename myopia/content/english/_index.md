@@ -9,10 +9,10 @@ banner:
     - label: "Request a Demo"
       link: "contact/"
 
-  image: "images/banner.jpg"
+  image: "images/video-banner.png"
   video_over_image:
     enable: true
-    video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+    video_url: "https://www.youtube.com/embed/_UCt6uidU0c"
 
 # Reviews
 reviews:
