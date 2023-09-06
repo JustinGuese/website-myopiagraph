@@ -9,7 +9,7 @@ logo_width = "152px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Copper"
+logo_text = "Myopiagraph"
 # purgeCSS
 purge_css = true
  
@@ -28,7 +28,7 @@ custom_script = ""
 
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company" # also change copyright in language.toml file
+copyright = "Copyright by DataFortress.cloud UG" # also change copyright in language.toml file
 
 # Preloader
 [preloader]
@@ -40,18 +40,18 @@ greetings_to = "Copper"
 # Navigation button
 [navigation_button_bordered]
 enable = true
-label = "Sign Up"
-link = ""
+label = "Free Trial"
+link = "https://app.myopiagraph.com/"
 
 # Navigation button
 [navigation_button_linked]
 enable = true
 label = "Log In"
-link = ""
+link = "https://app.myopiagraph.com/"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name =  "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
@@ -79,9 +79,9 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Copper", "Hugo", "Gethugothemes", "Themefisher"]
-description = "This is meta description"
-author = "Gethugothemes"
+keywords = ["Myopiagraph", "Myopia", "Myopia management software", "Myopia progression visualization"]
+description = "Discover Myopiagraph: Leading myopia management software for pediatric eye health. Visualize myopia progression, ensure data compliance, and empower patients with personalized reports. Join the future of myopia care."
+author = "DataFortress.cloud UG"
 image = "images/logo.png"                                       # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -108,11 +108,11 @@ username = ""  # your username
 # Footer call to action
 [footer_call_to_action]
 enable = true
-title = "Join 75,000+ growing business That **Use Copper To Their Brand**"
+title = "Join 25+ practices that use **Myopiagraph** to manage their myopia patients"
 [footer_cta_button]
 enable = true
-label = "Get Started With Us"
-link = "contact"
+label = "Free 14 day trial"
+link = "/contact"
 
 # site verifications
 [site_verification]

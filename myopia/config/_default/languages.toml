@@ -5,9 +5,9 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 [en.params]
-footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore dolore magna aliquyam eratnonumy onsetetur"
+footer_content = "Myopiagraph: Transforming myopia management with visual insights for doctors and patients, maximizing value in treatment and practice revenue."
 # copyright
-copyright = "Copyright by your company"
+copyright = "Copyright by DataFortress.cloud UG"
 
 
 
@@ -18,6 +18,6 @@ languageCode = "de-de"
 contentDir = "content/german"
 weight = 2
 [de.params]
-footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore dolore magna aliquyam eratnonumy onsetetur"
+footer_content = "Myopiagraph: Transforming myopia management with visual insights for doctors and patients, maximizing value in treatment and practice revenue."
 # copyright
-copyright = "Copyright by your company"
+copyright = "Copyright by DataFortress.cloud UG"
