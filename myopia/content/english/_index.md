@@ -1,184 +1,175 @@
 ---
-# banner
+############################ Banner ##################################
 banner:
-  title: "Revolutionizing **Myopia** Management for Children"
-  subtitle: "Nurturing Young Vision"
-  buttons:
-    - label: "Get started for Free"
-      link: "contact/"
-    - label: "Request a Demo"
-      link: "contact/"
-
-  image: "images/video-banner.png"
-  video_over_image:
-    enable: true
-    video_url: "https://www.youtube.com/embed/_UCt6uidU0c"
-
-# Reviews
-reviews:
   enable : true
-  lists:
-    - title: "Rating: 4.4"
-      image: "images/reviews/trustpilot.png"
-      link: "#"
+  title : "Myopiagraph is a software for **Myopia management**"
+  content : "supporting doctors in reducing the worsening of short-sightedness in children and future risks."
+  image : "images/screenshots/banner-shot.png"
+  video:
+    enable : true
+    video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
+  form:
+    enable : true
+    form_acttion : "#"
+    button_label : "Request Demo"
+  button:
+    enable : true
+    icon : "images/brands/google.png"
+    label : "Free 14 day demo access"
+    link : "https://v2.myopiagraph.com"
+    content : "No credit card required. You will be contacted before the end of the trial period to discuss a subscription plan."
+
+
+
+########################## Clients Logo Slider #########################
+clients_logo_slider:
+  enable : false
+  logos:
+  - "images/brands/01-colored.png"
+  - "images/brands/02-colored.png"
+  - "images/brands/03-colored.png"
+  - "images/brands/04-colored.png"
+  - "images/brands/05-colored.png"
+  - "images/brands/06-colored.png"
+  - "images/brands/01-colored.png"
+  - "images/brands/02-colored.png"
+  - "images/brands/03-colored.png"
+  - "images/brands/04-colored.png"
+  - "images/brands/05-colored.png"
+  - "images/brands/06-colored.png"
+  
+
+########################## How it works #########################
+homepage_tab:
+  enable : true
+  title : "Key Features of **Myopiagraph**"
+  content : "Discover the four essential features that set Myopiagraph apart and make it the ultimate solution for myopia management:"
+  tablist:
+  # tab item
+  - name : "Visualize Myopia Progression"
+    title : "**Visualize** Myopia Progression"
+    image : "images/screenshots/how-it-works-1.jpg"
+    content : "Gain unparalleled insights into your patients' myopia progression with our advanced visualization tools. Myopiagraph provides a clear representation of axial length values matched with age, complete with threshold indicators to help you make informed decisions about treatment. Witness the growth trends, all supported by current research."
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
       
-    - title: "Fulfills all regulations"
-      image: "images/reviews/surly.png"
-      link: "#"
-
-    - title: "Rating: 4.9"
-      image: "images/reviews/saashub.png"
-      link: "#"
+  # tab item
+  - name : "Patient-Centric PDF Reports"
+    title : "Patient-Centric PDF **Reports**"
+    image : "images/screenshots/03.png"
+    content : "Enhance patient understanding and engagement with our printable PDF reports. These comprehensive documents provide patients with a visual overview of their myopia status, encouraging them to consider myopia treatment options that may not be covered by standard German insurance plans. Empower your patients to take charge of their eye health."
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
       
-    - title: "Product of the day"
-      image: "images/reviews/producthunt.png"
-      link: "#"
+  # tab item
+  - name : "Data Security and Compliance"
+    title : "Data **Security** and **Compliance**"
+    image : "images/screenshots/04.png"
+    content : "Rest easy knowing that Myopiagraph's servers are located in Germany, hosted by Hetzner. We prioritize data security and compliance, ensuring that your patients' sensitive information is handled with the utmost care and in accordance with German healthcare regulations. Your data is safe in our hands."
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
+      
+  # tab item
+  - name : "Seamless SaaS Experience"
+    title : "**Worry free** hosting"
+    image : "images/screenshots/how-it-works-1.jpg"
+    content : "Say goodbye to hosting, backup, and uptime concerns. Myopiagraph is a Software as a Service (SaaS) solution, designed for hassle-free operation. Focus on patient care while we handle the technical aspects. Enjoy a reliable, always-on platform that simplifies your workflow.
 
-# marketing tools
-marketing_tools:
-  title: "Manage Myopia all in one place"
-  subtitle: "Tracking, Analysis, Visualization and training offered in one tool."
-
-  tools_list:
-    - icon: "images/myopia/write-icon.png"
-      title: "Track the Myopia progress"
-      image: "images/myopia/data-entry.png"
-      content: "Introducing Myopiagraph, the cutting-edge solution that has revolutionized myopia management in children. Developed in close collaboration with doctors and medical experts, our tool offers a seamless and effortless approach to tracking myopia progression while ensuring error-free data entry."
-
-    - icon: "images/myopia/graph-icon.png"
-      title: "Visualize the progress"
-      image: "images/myopia/graphs.png"
-      content: "Myopiagraph empowers doctors to unlock a new level of understanding and analysis in myopia management. By harnessing the power of advanced technology and incorporating the latest research findings, our tool offers an immersive visualization of myopia progress in children."
-
-    - icon: "images/myopia/prescription-icon.png"
-      title: "Track therapies and diagnosis"
-      image: "images/myopia/therapies.png"
-      content: "With Myopiagraph, doctors can effortlessly track therapies and diagnosis for their patients. Our intuitive platform allows for seamless documentation and analysis of treatment plans, ensuring that every step of the myopia management journey is carefully monitored. From tracking the effectiveness of different interventions to evaluating the progress of individual patients, Myopiagraph provides a comprehensive toolkit for doctors to make data-driven decisions and optimize outcomes. With streamlined tracking capabilities, doctors can focus on delivering the best possible care while having confidence in the accuracy and efficiency of their documentation and analysis."
-
-    - icon: "images/myopia/report-icon.png"
-      title: "Print out reports for your patients"
-      image: "images/myopia/report.png"
-      content: "Enhance Patient Care with Myopiagraph's Report Print Functionality: Empower Patients with Personalized Handouts for Understanding and Support.
-
-Myopiagraph offers a convenient report print feature that enables doctors to generate personalized handouts for patients. These reports provide a clear and concise summary of the patient's myopia management journey, treatment plans, and recommendations.
-
-With a few clicks, doctors can create visually appealing handouts that educate patients about their condition and make them feel supported. By providing tangible documentation, patients gain a deeper understanding of their eye health and the steps being taken to manage their myopia."
-
-    - icon: "images/myopia/login-icon.png"
-      title: "User and Role managemement"
-      image: "images/myopia/login.png"
-      content: "Robust User Management & Roles: Myopiagraph implements secure user management with role-based access control. Each user's actions are tracked and logged for enhanced data security and compliance. Administrators can easily manage user accounts and assign access levels to ensure confidentiality. The system maintains an audit trail for comprehensive monitoring and traceability. With precise controls and monitoring, Myopiagraph provides a secure environment for managing patient data."
+Myopiagraph is not just a tool; it's a partner in your mission to combat myopia and protect the vision of future generations. Join the Myopiagraph community and elevate your myopia management practice today."
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
 
 
-# services
-services:
-  title: "We offer educational material and training as well."
-  subtitle: "Why should you offer Myopia Management?"
-
-  service_list:
-    - title: "Customized Implementation Plan"
-      icon: "fa-solid fa-check-to-slot"
-      content: "We understand that every practice is unique. Our team will work closely with you to develop a tailored implementation plan that aligns with your specific needs and goals. We provide guidance on integrating Myopiagraph into your existing workflow and optimizing its use for maximum efficiency."
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Contact "
-          link: "#"
-          
-    - title: "Training and Education"
-      icon: "fa-solid fa-people-group"
-      content: "We offer comprehensive training programs designed to equip doctors with the knowledge and skills required for successful myopia management. From assessment techniques to treatment strategies and patient communication, our training ensures that doctors are well-prepared to integrate myopia management into their practice."
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Contact"
-          link: "#"
-          
-    - title: "Financial planning"
-      icon: "fa-solid fa-chart-simple"
-      content: " Myopiagraph offers personalized financial planning services to help you determine the budget required and potential earnings from myopia management. Through collaborative discussions, we assess your unique financial circumstances and practice goals. We provide insights and industry benchmarks to inform your decision-making process. Our team assists in estimating revenue streams, considering patient demand, pricing structures, and long-term patient retention. With a realistic financial projection, you can make informed decisions and optimize revenue generation while offering myopia management services."
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Contact"
-          link: "#"
-          
-    - title: "Marketing Materials"
-      icon: "fa-solid fa-chart-bar"
-      content: "We provide a range of marketing materials, patient education resources, and informational content to support your efforts in promoting myopia management services. These materials are designed to educate and engage patients, helping them understand the importance of myopia management and the benefits of your services."
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Contact"
-          link: "#"
-          
-    - title: "Technical Support"
-      icon: "fa-solid fa-layer-group"
-      content: "Our dedicated technical support team is always available to assist with any questions or concerns you may have during the implementation process. From initial setup to troubleshooting, we are here to ensure a smooth and hassle-free experience."
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Contact"
-          link: "#"
+############################## Tools in Use ########################
+tools:
+  enable : true
+  title : "Integrate the **tools you already use**"
+  content : "Myopiagraph is just a software which is not classified as a medical device, therefore you can use it with any opthomological measurement device.
+Ophthalmology devices are measuring the eye length of the children, and the results are inserted into Myopiagraph, where they are visualized in a personalized manner according to their respective parameters in percentile curves from current research.
+in the future, API connections are planned. "
+  logos:
+  - "images/tools/maxresdefault.jpg"
+  - "images/tools/Zeiss_logo.svg.png"
+  - "images/tools/haag-streit-group-logo-vector.png"
 
 
-# integration
-integration:
-  title: "Customize your workflow deploy APIs free"
-  subtitle: "Our Articles on Analytics, Growth & Tech"
+  
 
-  buttons:
-    - label: "Get started for free"
-      link: "#"
+############################## Achivement ##############################
+achivement:
+  enable : true
+  title : "Average yearly growth rate **across our clients**"
+  content : "Myopiagraph has been developed as a product of necessity. A matching visualization software had been missing, and we have created a solution which works for every device available instead of being locked in to a specific device."
+  funfacts:
+  - name : "Years Of <br> Experience wit medical products"
+    count : "10"
+    extension : "+"
+    
+  - name : "Active patients being treated"
+    count : "100"
+    extension : "+"
+    
+  - name : "Practices using Myopiagraph actively"
+    count : "25"
+    extension : "+"
 
-  integration_lists:
-    - "images/integration/01.png"
-    - "images/integration/02.png"
-    - "images/integration/03.png"
-    - "images/integration/04.png"
-    - "images/integration/05.png"
-    - "images/integration/06.png"
-    - "images/integration/07.png"
-    - "images/integration/08.png"
-    - "images/integration/09.png"
-    - "images/integration/10.png"
-    - "images/integration/11.png"
-    - "images/integration/12.png"
-    - "images/integration/13.png"
-
-
-# how-it-works / ecosystem throughout
-how_it_works:
-  title: "One Ecosystem Throughout"
-  subtitle: "Build the Future of Online Services"
-
-  feature_lists:
-    - title: "Manage your firm’s revenues from one central place"
-      image: "images/how-it-works/01.jpeg"
-      buttons:
-        - label: "Try For Free"
-          link: "#"
-      content: "This expedient serves to get an idea of the finished product that will soon be printed or disseminated via digital channels."
-
-    - title: "Spark team collaboration thanks commenting"
-      image: "images/how-it-works/02.jpeg"
-      buttons:
-        - label: "Try For Free"
-          link: "#"
-      content: "This expedient serves to get an idea of the finished product that will soon be printed or disseminated via digital channels."
-
-    - title: "Cooperate and achieve team goals different corners"
-      image: "images/how-it-works/03.jpeg"
-      buttons:
-        - label: "Try For Free"
-          link: "#"
-      content: "This expedient serves to get an idea of the finished product that will soon be printed or disseminated via digital channels."
+  services:
+  - name : "Enhancing patient understanding and value in myopia treatment"
+    icon : "far fa-thumbs-up" # fontawesome icon : https://fontawesome.com/icons
+    
+  - name : "Optional Myopia treatment training material available"
+    icon : "far fa-comment-dots" # fontawesome icon : https://fontawesome.com/icons
+    
+  - name : "Unlock new revenue streams through myopia treatment in your practice."
+    icon : "fas fa-lightbulb" # fontawesome icon : https://fontawesome.com/icons
+    
+  - name : "Data hosted in Germany, compliant with German healthcare regulations."
+    icon : "fas fa-shield-alt" # fontawesome icon : https://fontawesome.com/icons
 
 
-# testimonials
-testimonials:
-  enable: true
-  title: "customer’s testimonial"
-  subtitle: "What Our Customers are saying"
-  image: "images/myopia/doctor.webp"
+############################## Workflow ################################
+workflow:
+  enable : true
+  title : "Don't know **where** and **how** to start?"
+  image : "images/screenshots/03.png"
+  content : "[Contact us for a free 15 minute introductory call](/contact) to learn more about Myopiagraph and how it can help you in your practice. We will be happy to answer any questions you may have."
+  
+
+############################## about us ################################
+about_us:
+  enable : true
+  title : "Who Are We And **What Is Our Background?**"
+  image : "images/about/01.jpg"
+  content : "We are a colaboration of an opthomologic doctor and a software company with experience and customers in the medical area."
+  bulletpoints:
+    - "Developed a data warehouse for an international leading fasting clinic"
+    - "Introduced and implemented Myopia management in a leading German MVZ"
+    - "Successfully implemented and consulted a clinic in the transition to 'Kliniklandeskrankenhausgesetz'-data-compliance"
+
+    
+
+############################# Testimonial ############################
+testimonial:
+  enable : true
+  title : "What Our **Clients say**"
+  content : "Myopiagraph helps practices implement myopia management in a way that is easy to understand for patients and parents."
+  button:
+    enable : true
+    label : "View All Testimonials"
+    link : "testimonial"
+
+  testimonial_item:
+  - name : "Dr. med. Rabbit Cupcake"
+    image : "images/users/01.jpg"
+    designation : "South Blicking Inc"
+    content : "Myopiagraph helped me to easily visualize measurements and form medical decisions on the relatively new treatment of myopia management. I can recommend it to every opthomologist who wants to offer myopia management to their patients."
+
 ---

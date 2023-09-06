@@ -1,9 +1,8 @@
-############# English navigation ##############
-
+############# French navigation ##############
 # main menu
 [[main]]
 name = "Home"
-url = ""      # don't use a slash for home url
+url = ""
 weight = 1
 
 [[main]]
@@ -12,68 +11,77 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing/"
+name = "Services"
+url = "services/"
 weight = 3
 
 [[main]]
-name = "FAQ"
-url = "pricing/#faq"
+name = "Team"
+url = "team/"
 weight = 4
 
 [[main]]
-name = "Pages"
-url = "blog/"
-weight = 5
-hasChildren = true
-
-[[main]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-parent = "Pages"
-
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 7
-
-[[footer]]
-name = "About"
-url = "about/"
-weight = 1
-
-[[footer]]
-name = "Pricing"
-url = "pricing/"
-weight = 10
-
-[[footer]]
 name = "Blog"
 url = "blog/"
-weight = 20
+weight = 5
 
-
-[[footer]]
+[[main]]
 name = "Contact"
 url = "contact/"
-weight = 40
+weight = 6
 
-[[footer_bottom]]
-name = "Privacy Policy"
-url = "#"
+[[main]]
+name = "Pages"
+weight = 7
+hasChildren = true
+
+  [[main]]
+  parent = "Pages"
+  name = "Career"
+  url = "career/"
+
+  [[main]]
+  parent = "Pages"
+  name = "Pricing"
+  url = "pricing/"
+
+  [[main]]
+  parent = "Pages"
+  name = "Pricing 2"
+  url = "pricing-2/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "How It Works"
+  url = "how-it-works/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "Testimonial"
+  url = "testimonial/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "Faq"
+  url = "faq/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "Changelog"
+  url = "changelog/"
+
+# Footer menu
+[[footer]]
+name = "Faq"
+url = "faq/"
 weight = 1
 
-[[footer_bottom]]
-name = "Terms of Use"
-url = "#"
-weight = 10
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 2
 
-[[footer_bottom]]
-name = "Legal"
-url = "#"
-weight = 30
-
-[[footer_bottom]]
-name = "Site Map"
-url = "#"
-weight = 40
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

@@ -1,106 +1,87 @@
 ############# French navigation ##############
-
 # main menu
 [[main]]
-name = "Maison"
-url = ""      # don't use a slash for home url
+name = "Home"
+url = ""
 weight = 1
 
 [[main]]
-name = "À propos de"
+name = "About"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing/"
+name = "Services"
+url = "services/"
 weight = 3
+
+[[main]]
+name = "Team"
+url = "team/"
+weight = 4
 
 [[main]]
 name = "Blog"
 url = "blog/"
-weight = 4
-
-[[main]]
-name = "Carrière"
-url = "career/"
-weight = 4
-
-[[main]]
-weight = 10
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Changelog"
-url = "changelog/"
-weight = 3
-
-[[main]]
-parent = "Pages"
-name = "Blog Célibataire"
-url = "blog/post-1/"
 weight = 5
 
 [[main]]
-parent = "Pages"
-name = "Author Single"
-url = "author/soophie-moore/"
+name = "Contact"
+url = "contact/"
 weight = 6
 
 [[main]]
-parent = "Pages"
-name = "Célibataire carrière"
-url = "career/people-program-management-leader/"
+name = "Pages"
 weight = 7
+hasChildren = true
 
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 15
+  [[main]]
+  parent = "Pages"
+  name = "Career"
+  url = "career/"
 
+  [[main]]
+  parent = "Pages"
+  name = "Pricing"
+  url = "pricing/"
+
+  [[main]]
+  parent = "Pages"
+  name = "Pricing 2"
+  url = "pricing-2/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "How It Works"
+  url = "how-it-works/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "Testimonial"
+  url = "testimonial/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "Faq"
+  url = "faq/"
+  
+  [[main]]
+  parent = "Pages"
+  name = "Changelog"
+  url = "changelog/"
+
+# Footer menu
 [[footer]]
-name = "À propos de"
-url = "about/"
+name = "Faq"
+url = "faq/"
 weight = 1
 
 [[footer]]
-name = "Pricing"
-url = "pricing/"
-weight = 10
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 2
 
 [[footer]]
-name = "Blog"
-url = "blog/"
-weight = 20
-
-[[footer]]
-name = "Carrière"
-url = "career/"
-weight = 30
-
-[[footer]]
-name = "Contact"
-url = "contact/"
-weight = 40
-
-[[footer_bottom]]
-name = "Politique de confidentialité"
-url = "#"
-weight = 1
-
-[[footer_bottom]]
-name = "Conditions d'utilisation"
-url = "#"
-weight = 10
-
-[[footer_bottom]]
-name = "Legal"
-url = "#"
-weight = 30
-
-[[footer_bottom]]
-name = "Site Map"
-url = "#"
-weight = 40
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

@@ -1,190 +1,191 @@
 ---
-# banner
+############################ Banner ##################################
 banner:
-  title: "Une superbe présentation **faite pour tout le monde**"
-  subtitle: "Simplify Financial Management"
-  buttons:
-    - label: "Commencez gratuitement"
-      link: "/"
-    - label: "Demander une démo"
-      link: "/"
-
-  image: "images/banner.jpg"
-  video_over_image:
-    enable: true
-    video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-
-# Reviews
-reviews:
   enable : true
-  lists:
-    - title: "Évaluation: 4.4"
-      image: "images/reviews/trustpilot.png"
-      link: "#"
+  title : "Give Your customers human feeling touch **Like Never Before**"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  image : "images/screenshots/banner-shot.png"
+  video:
+    enable : true
+    video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
+  form:
+    enable : true
+    form_acttion : "#"
+    button_label : "Request Demo"
+  button:
+    enable : true
+    icon : "images/brands/google.png"
+    label : "Sign Up With Google"
+    link : "#"
+    content : "No credit card required. Available on [Mac](), [Windows](), [iOS](), & [Android]()"
 
-    - title: "Évaluation: 4.9"
-      image: "images/reviews/saashub.png"
-      link: "#"
+
+
+########################## Clients Logo Slider #########################
+clients_logo_slider:
+  enable : true
+  logos:
+  - "images/brands/01-colored.png"
+  - "images/brands/02-colored.png"
+  - "images/brands/03-colored.png"
+  - "images/brands/04-colored.png"
+  - "images/brands/05-colored.png"
+  - "images/brands/06-colored.png"
+  - "images/brands/01-colored.png"
+  - "images/brands/02-colored.png"
+  - "images/brands/03-colored.png"
+  - "images/brands/04-colored.png"
+  - "images/brands/05-colored.png"
+  - "images/brands/06-colored.png"
+  
+
+########################## How it works #########################
+homepage_tab:
+  enable : true
+  title : "How **it Works**"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  tablist:
+  # tab item
+  - name : "Task Management"
+    title : "Task **Management**"
+    image : "images/screenshots/how-it-works-1.jpg"
+    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
       
-    - title: "Produit du jour"
-      image: "images/reviews/producthunt.png"
-      link: "#"
+  # tab item
+  - name : "Built In Chat"
+    title : "Built In **Chat**"
+    image : "images/screenshots/03.png"
+    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
       
-    - title: "Brilliantly SAFE!"
-      image: "images/reviews/surly.png"
-      link: "#"
-
-# marketing tools
-marketing_tools:
-  title: "Gérez vos revenus agricoles"
-  subtitle: "Simplifions et automatisons vos campagnes marketing"
-
-  tools_list:
-    - icon: "images/marketing-tools/01.png"
-      title: "Apps Web lourdes, Meet google calender"
-      image: "images/dashboard-interface.jpeg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-
-    - icon: "images/marketing-tools/02.png"
-      title: "Apps Web lourdes, Meet Notion"
-      image: "images/dashboard-interface.jpeg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-
-    - icon: "images/marketing-tools/03.png"
-      title: "Apps Web lourdes, Meet LinkedIn"
-      image: "images/dashboard-interface.jpeg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-
-    - icon: "images/marketing-tools/04.png"
-      title: "Apps Web lourdes, Meet Google"
-      image: "images/dashboard-interface.jpeg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-
-    - icon: "images/marketing-tools/05.png"
-      title: "Apps Web lourdes, Meet Google"
-      image: "images/dashboard-interface.jpeg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-
-    - icon: "images/marketing-tools/06.png"
-      title: "Apps Web lourdes, Meet Asana"
-      image: "images/dashboard-interface.jpeg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-
-    - icon: "images/marketing-tools/07.png"
-      title: "Apps Web lourdes, Meet Spotify"
-      image: "images/dashboard-interface.jpeg"
-      content: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+  # tab item
+  - name : "Project Analytics"
+    title : "Project **Analytics**"
+    image : "images/screenshots/04.png"
+    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
+      
+  # tab item
+  - name : "Task Collaboration"
+    title : "Task **Collaboration**"
+    image : "images/screenshots/how-it-works-1.jpg"
+    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    button:
+      enable : true
+      label : "View More"
+      link : "how-it-works"
 
 
-# services
-services:
-  title: "Nous avons les services dont vous avez besoin"
-  subtitle: "Intégré avec les outils que vous connaissez et aimez"
+############################## Tools in Use ########################
+tools:
+  enable : true
+  title : "Integrate the **tools you already use**"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  logos:
+  - "images/tools/01.png"
+  - "images/tools/02.png"
+  - "images/tools/03.png"
+  - "images/tools/04.png"
+  - "images/tools/05.png"
+  - "images/tools/06.png"
+  - "images/tools/07.png"
+  - "images/tools/08.png"
+  - "images/tools/05.png"
 
-  service_list:
-    - title: "Industry standard"
-      icon: "fa-solid fa-check-to-slot"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Get started  now"
-          link: "#"
-          
-    - title: "Marketing Agencies"
-      icon: "fa-solid fa-chart-simple"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Get started  now"
-          link: "#"
-          
-    - title: "designing team"
-      icon: "fa-solid fa-people-group"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Get started  now"
-          link: "#"
-          
-    - title: "planning events"
-      icon: "fa-solid fa-chart-bar"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Get started  now"
-          link: "#"
-          
-    - title: "Manipulate database"
-      icon: "fa-solid fa-layer-group"
-      content: "Each function has environment variables, so you can chuck API keys in there for proxying, auth if you need it, logs  debugging, plus you can write in Node or Python. It’s a healthy amount of features, with more on the way, but it really does feel like embracing simplicity rather than"
-      buttons:
-        - label: "Request a demo"
-          link: "#"
-        - label: "Get started  now"
-          link: "#"
+  
+
+############################## Achivement ##############################
+achivement:
+  enable : true
+  title : "Average yearly growth rate **across our clients We able to achive**"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et"
+  funfacts:
+  - name : "Years Of <br> Experience"
+    count : "24"
+    extension : "+"
+    
+  - name : "More Real <br> Active users"
+    count : "10"
+    extension : "M+"
+    
+  - name : "Employees <br> Work Here"
+    count : "3000"
+    extension : "+"
+
+  services:
+  - name : "Fully Secure And Hacking Free"
+    icon : "far fa-thumbs-up" # fontawesome icon : https://fontawesome.com/icons
+    
+  - name : "Always Having A Great Supports"
+    icon : "far fa-comment-dots" # fontawesome icon : https://fontawesome.com/icons
+    
+  - name : "Build with Time Balanceing"
+    icon : "fas fa-film" # fontawesome icon : https://fontawesome.com/icons
+    
+  - name : "Fully Prepared with Safe Condition"
+    icon : "fas fa-shield-alt" # fontawesome icon : https://fontawesome.com/icons
 
 
-# integration
-integration:
-  title: "Customize your workflow deploy APIs free"
-  subtitle: "Our articles on Analytics, Growth & Tech"
+############################## Workflow ################################
+workflow:
+  enable : true
+  title : "Create an automated **workflow by setting**"
+  image : "images/screenshots/03.png"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  
 
-  buttons:
-    - label: "Get started for free"
-      link: "#"
+############################## about us ################################
+about_us:
+  enable : true
+  title : "Who Are We And **What Is Our Identity?**"
+  image : "images/about/01.jpg"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
+  bulletpoints:
+    - "Habit building in essential steps choose habit Good Things"
+    - "Get an overview of Habit Calendars admiral general."
+    - "Start building habit with Habitify on platform to new"
 
-  integration_lists:
-    - "images/integration/01.png"
-    - "images/integration/02.png"
-    - "images/integration/03.png"
-    - "images/integration/04.png"
-    - "images/integration/05.png"
-    - "images/integration/06.png"
-    - "images/integration/07.png"
-    - "images/integration/08.png"
-    - "images/integration/09.png"
-    - "images/integration/10.png"
-    - "images/integration/11.png"
-    - "images/integration/12.png"
-    - "images/integration/13.png"
+    
 
+############################# Testimonial ############################
+testimonial:
+  enable : true
+  title : "What Our **Client says**"
+  content : "Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam"
+  button:
+    enable : true
+    label : "View All Testimonials"
+    link : "testimonial"
 
-# how-it-works / ecosystem throughout
-how_it_works:
-  title: "One Ecosystem Throughout"
-  subtitle: "Build the future of online services"
+  testimonial_item:
+  - name : "Angela Markel"
+    image : "images/users/01.jpg"
+    designation : "CEO, Angular Corporation"
+    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+    
+  - name : "Angela Markel"
+    image : "images/users/02.jpg"
+    designation : "CEO, Angular Corporation"
+    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+    
+  - name : "Angela Markel"
+    image : "images/users/03.jpg"
+    designation : "CEO, Angular Corporation"
+    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+    
+  - name : "Angela Markel"
+    image : "images/users/02.jpg"
+    designation : "CEO, Angular Corporation"
+    content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
 
-  feature_lists:
-    - title: "Manage your firm’s revenues from one central place"
-      image: "images/how-it-works/01.jpeg"
-      buttons:
-        - label: "Try For Free"
-          link: "#"
-      content: "This expedient serves to get an idea of the finished product that will soon be printed or disseminated via digital channels."
-
-    - title: "Spark team collaboration thanks commenting"
-      image: "images/how-it-works/02.jpeg"
-      buttons:
-        - label: "Try For Free"
-          link: "#"
-      content: "This expedient serves to get an idea of the finished product that will soon be printed or disseminated via digital channels."
-
-    - title: "Cooperate and achieve team goals different corners"
-      image: "images/how-it-works/03.jpeg"
-      buttons:
-        - label: "Try For Free"
-          link: "#"
-      content: "This expedient serves to get an idea of the finished product that will soon be printed or disseminated via digital channels."
-
-
-# testimonials
-testimonials:
-  enable: true
-  title: "Témoignage du client"
-  subtitle: "Ce que disent nos excellents clients"
-  image: "images/testimonial-img.png"
 ---

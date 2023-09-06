@@ -1,15 +1,9 @@
 [hugoVersion]
 extended = true
-min = "0.110.0"
+min = "0.115.1"
 
 [[imports]]
 path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
-
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/components/custom-script"
-
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/components/preloader"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/components/social-share"
@@ -18,10 +12,16 @@ path = "github.com/gethugothemes/hugo-modules/components/social-share"
 path = "github.com/gethugothemes/hugo-modules/components/cookie-consent"
 
 [[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/custom-script"
+
+[[imports]]
 path = "github.com/gethugothemes/hugo-modules/components/render-link"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/icons/font-awesome"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/valine-comment"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/components/crisp-chat"
@@ -33,37 +33,28 @@ path = "github.com/gethugothemes/hugo-modules/pwa"
 path = "github.com/gethugothemes/hugo-modules/images"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/buttons"
+path = "github.com/gethugothemes/hugo-modules/shortcodes/button"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/shortcodes/codepen"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/collapse"
+path = "github.com/gethugothemes/hugo-modules/accordion"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/shortcodes/notice"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/video"
+path = "github.com/gethugothemes/hugo-modules/videos"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/tabs"
+path = "github.com/gethugothemes/hugo-modules/tab"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/image"
+path = "github.com/gethugothemes/hugo-modules/gallery-slider"
 
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/gallery"
-
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/table-of-contents"
-
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/youtube-lite"
-
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/vimeo-lite"
+path = "github.com/gethugothemes/hugo-modules/table-of-contents"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/seo-tools/baidu-analytics"
@@ -88,3 +79,6 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/basic-seo"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/gzip-caching"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/adsense"
