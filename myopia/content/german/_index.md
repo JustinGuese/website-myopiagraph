@@ -2,22 +2,22 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Myopiagraph is a software for **Myopia management**"
-  content : "supporting doctors in reducing the worsening of short-sightedness in children and future risks."
+  title : "Myopiagraph ist eine Software für **Myopiemanagement**."
+  content : "die Ärzte dabei unterstützt, die Verschlimmerung der Kurzsichtigkeit bei Kindern und zukünftige Risiken zu verringern."
   image : "images/screenshots/banner-shot.png"
   video:
     enable : true
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
     enable : true
-    form_acttion : "#"
-    button_label : "Request a Demo"
+    form_action : "https://formspree.io/f/xeqwvqbl"
+    button_label : "Demo anfordern"
   button:
     enable : true
     # icon : "images/brands/google.png"
-    label : "Free 14 day demo access"
+    label : "Gratis 14-tägiger Testzeitraum"
     link : "https://v2.myopiagraph.com"
-    content : "No credit card required. You will be contacted before the end of the trial period to discuss a subscription plan."
+    content : "Keine Kreditkarte erforderlich. Sie werden vor Ablauf des Testzeitraums kontaktiert, um einen Abonnementplan zu besprechen."
 
 
 
@@ -42,59 +42,59 @@ clients_logo_slider:
 ########################## How it works #########################
 homepage_tab:
   enable : true
-  title : "Key Features of **Myopiagraph**"
-  content : "Discover the four essential features that set Myopiagraph apart and make it the ultimate solution for myopia management:"
+  title : "Hauptmerkmale von **Myopiagraph**"
+  content : "Entdecken Sie die vier wesentlichen Merkmale, die Myopiagraph auszeichnen und es zur ultimativen Lösung für das Myopie-Management machen:"
   tablist:
   # tab item
-  - name : "Visualize Myopia Progression"
-    title : "**Visualize** Myopia Progression"
+  - name : "Visualisierung der Myopieprogression"
+    title : "**Visualisierung** der Myopieprogression"
     image : "images/screenshots/how-it-works-1.jpg"
-    content : "Gain unparalleled insights into your patients' myopia progression with our advanced visualization tools. Myopiagraph provides a clear representation of axial length values matched with age, complete with threshold indicators to help you make informed decisions about treatment. Witness the growth trends, all supported by current research."
+    content : "Gewinnen Sie mit unseren fortschrittlichen Visualisierungswerkzeugen unvergleichliche Einblicke in die Myopieentwicklung Ihrer Patienten. Myopiagraph bietet eine übersichtliche Darstellung der Achsenlängenwerte in Abhängigkeit vom Alter sowie Schwellenwertindikatoren, die Ihnen helfen, fundierte Entscheidungen über die Behandlung zu treffen. Beobachten Sie die Wachstumstrends, die durch aktuelle Forschungsergebnisse unterstützt werden."
     button:
       enable : true
-      label : "View More"
+      label : "Mehr erfahren"
       link : "how-it-works"
       
   # tab item
-  - name : "Patient-Centric PDF Reports"
-    title : "Patient-Centric PDF **Reports**"
+  - name : "Patientenzentrierte PDF-Berichte"
+    title : "Patientenzentrierte **PDF-Berichte**"
     image : "images/screenshots/03.png"
-    content : "Enhance patient understanding and engagement with our printable PDF reports. These comprehensive documents provide patients with a visual overview of their myopia status, encouraging them to consider myopia treatment options that may not be covered by standard German insurance plans. Empower your patients to take charge of their eye health."
+    content : "Verbessern Sie das Verständnis und das Engagement Ihrer Patienten mit unseren druckbaren PDF-Berichten. Diese umfassenden Dokumente geben den Patienten einen visuellen Überblick über ihren Myopiestatus und ermutigen sie, Myopie-Behandlungsoptionen in Betracht zu ziehen, die möglicherweise nicht von den üblichen deutschen Versicherungsplänen abgedeckt werden. Befähigen Sie Ihre Patienten, ihre Augengesundheit selbst in die Hand zu nehmen."
     button:
       enable : true
-      label : "View More"
+      label : "Mehr erfahren"
       link : "how-it-works"
       
   # tab item
-  - name : "Data Security and Compliance"
-    title : "Data **Security** and **Compliance**"
+  - name : "Datensicherheit und Compliance"
+    title : "**Datensicherheit** und **Compliance**"
     image : "images/screenshots/04.png"
-    content : "Rest easy knowing that Myopiagraph's servers are located in Germany, hosted by Hetzner. We prioritize data security and compliance, ensuring that your patients' sensitive information is handled with the utmost care and in accordance with German healthcare regulations. Your data is safe in our hands."
+    content : "Sie können beruhigt sein, denn die Server von Myopiagraph befinden sich in Deutschland und werden von Hetzner gehostet. Wir legen größten Wert auf Datensicherheit und Compliance und stellen sicher, dass die sensiblen Daten Ihrer Patienten mit äußerster Sorgfalt und in Übereinstimmung mit den deutschen Gesundheitsvorschriften behandelt werden. Ihre Daten sind in unseren Händen sicher."
     button:
       enable : true
-      label : "View More"
+      label : "Mehr erfahren"
       link : "how-it-works"
       
   # tab item
-  - name : "Seamless SaaS Experience"
-    title : "**Worry free** hosting"
+  - name : "Nahtlose SaaS-Erfahrung"
+    title : "**Sorgenfreies** hosting"
     image : "images/screenshots/how-it-works-1.jpg"
-    content : "Say goodbye to hosting, backup, and uptime concerns. Myopiagraph is a Software as a Service (SaaS) solution, designed for hassle-free operation. Focus on patient care while we handle the technical aspects. Enjoy a reliable, always-on platform that simplifies your workflow.
+    content : "Verabschieden Sie sich von den Sorgen um Hosting, Backup und Betriebszeit. Myopiagraph ist eine Software-as-a-Service (SaaS)-Lösung, die für einen problemlosen Betrieb ausgelegt ist. Konzentrieren Sie sich auf die Patientenbetreuung, während wir uns um die technischen Aspekte kümmern. Genießen Sie eine zuverlässige, immer verfügbare Plattform, die Ihren Arbeitsablauf vereinfacht.
 
-Myopiagraph is not just a tool; it's a partner in your mission to combat myopia and protect the vision of future generations. Join the Myopiagraph community and elevate your myopia management practice today."
+Myopiagraph ist nicht nur ein Werkzeug, sondern ein Partner in Ihrer Mission, die Myopie zu bekämpfen und die Sehkraft künftiger Generationen zu schützen. Treten Sie der Myopiagraph-Gemeinschaft bei und verbessern Sie noch heute Ihre Praxis der Myopiebehandlung."
     button:
       enable : true
-      label : "View More"
+      label : "Mehr erfahren"
       link : "how-it-works"
 
 
 ############################## Tools in Use ########################
 tools:
   enable : true
-  title : "Integrate the **tools you already use**"
-  content : "Myopiagraph is just a software which is not classified as a medical device, therefore you can use it with any opthomological measurement device.
-Ophthalmology devices are measuring the eye length of the children, and the results are inserted into Myopiagraph, where they are visualized in a personalized manner according to their respective parameters in percentile curves from current research.
-in the future, API connections are planned. "
+  title : "Integrieren Sie die **Tools, die Sie bereits verwenden**"
+  content : "Myopiagraph ist nur eine Software, die nicht als medizinisches Gerät klassifiziert ist, daher kann sie mit jedem opthomologischen Messgerät verwendet werden.
+Ophthalmologische Geräte messen die Augenlänge der Kinder, und die Ergebnisse werden in Myopiagraph eingefügt, wo sie auf personalisierte Weise entsprechend den jeweiligen Parametern in Perzentilenkurven aus der aktuellen Forschung visualisiert werden.
+Für die Zukunft ist eine API-Anbindung geplant."
   logos:
   - "images/tools/maxresdefault.jpg"
   - "images/tools/Zeiss_logo.svg.png"
@@ -106,70 +106,70 @@ in the future, API connections are planned. "
 ############################## Achivement ##############################
 achivement:
   enable : true
-  title : "Average yearly growth rate **across our clients**"
-  content : "Myopiagraph has been developed as a product of necessity. A matching visualization software had been missing, and we have created a solution which works for every device available instead of being locked in to a specific device."
+  title : "Durchschnittliche jährliche Wachstumsrate **über alle unsere Kunden**"
+  content : "Myopiagraph ist aus der Not heraus entwickelt worden. Es fehlte eine passende Visualisierungssoftware, und wir haben eine Lösung geschaffen, die für jedes verfügbare Gerät funktioniert, anstatt auf ein bestimmtes Gerät festgelegt zu sein."
   funfacts:
-  - name : "Years Of <br> Experience wit medical products"
+  - name : "Jahre von <br> Erfahrung mit medizinischen Produkten"
     count : "10"
     extension : "+"
     
-  - name : "Active patients being treated"
+  - name : "Aktive Patienten in Behandlung"
     count : "100"
     extension : "+"
     
-  - name : "Practices using Myopiagraph actively"
+  - name : "Praxen, die Myopiagraph aktiv nutzen"
     count : "25"
     extension : "+"
 
   services:
-  - name : "Enhancing patient understanding and value in myopia treatment"
+  - name : "Verbesserung des Verständnisses und des Nutzens der Myopiebehandlung für die Patienten"
     icon : "far fa-thumbs-up" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "Optional Myopia treatment training material available"
+  - name : "Optionales Schulungsmaterial zur Myopiebehandlung erhältlich"
     icon : "far fa-comment-dots" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "Unlock new revenue streams through myopia treatment in your practice."
+  - name : "Erschließen Sie neue Einnahmequellen durch die Myopiebehandlung in Ihrer Praxis"
     icon : "fas fa-lightbulb" # fontawesome icon : https://fontawesome.com/icons
     
-  - name : "Data hosted in Germany, compliant with German healthcare regulations."
+  - name : "In Deutschland gehostete Daten, die mit den deutschen Gesundheitsvorschriften konform sind"
     icon : "fas fa-shield-alt" # fontawesome icon : https://fontawesome.com/icons
 
 
 ############################## Workflow ################################
 workflow:
   enable : true
-  title : "Don't know **where** and **how** to start?"
+  title : "Sie wissen nicht, **wo** und **wie** Sie anfangen sollen?"
   image : "images/screenshots/03.png"
-  content : "[Contact us for a free 15 minute introductory call](/contact) to learn more about Myopiagraph and how it can help you in your practice. We will be happy to answer any questions you may have."
+  content : "[Kontaktieren Sie uns für ein kostenloses 15-minütiges Einführungsgespräch](/de/contact), um mehr über Myopiagraph zu erfahren und wie es Ihnen in Ihrer Praxis helfen kann. Wir beantworten gerne alle Fragen, die Sie haben."
   
 
 ############################## about us ################################
 about_us:
   enable : true
-  title : "Who Are We And **What Is Our Background?**"
+  title : "Wer sind wir und **Was ist unser Hintergrund?**"
   image : "images/about/01.jpg"
-  content : "We are a colaboration of an opthomologic doctor and a software company with experience and customers in the medical area."
+  content : "Wir sind ein Zusammenschluss eines Augenarztes und einer Softwarefirma mit Erfahrung und Kunden im medizinischen Bereich."
   bulletpoints:
-    - "Developed a data warehouse for an international leading fasting clinic"
-    - "Introduced and implemented Myopia management in a leading German MVZ"
-    - "Successfully implemented and consulted a clinic in the transition to 'Kliniklandeskrankenhausgesetz'-data-compliance"
+    - "Entwicklung eines Data Warehouse für eine international führende Fastenklinik"
+    - "Einführung und Umsetzung von Myopiemanagement in einem führenden deutschen MVZ"
+    - "Erfolgreiche Umsetzung und Beratung einer Klinik bei der Umstellung auf Kliniklandeskrankenhausgesetz-Datenkonformität"
 
     
 
 ############################# Testimonial ############################
 testimonial:
   enable : true
-  title : "What Our **Clients say**"
-  content : "Myopiagraph helps practices implement myopia management in a way that is easy to understand for patients and parents."
+  title : "Was unsere **Kunden sagen**"
+  content : "Myopiagraph unterstützt Praxen bei der Umsetzung des Myopiemanagements auf eine für Patienten und Eltern leicht verständliche Weise."
   button:
     enable : true
-    label : "View All Testimonials"
+    label : "Alle Testimonials"
     link : "testimonial"
 
   testimonial_item:
   - name : "Dr. med. Rabbit Cupcake"
     image : "images/users/01.jpg"
     designation : "South Blicking Inc"
-    content : "Myopiagraph helped me to easily visualize measurements and form medical decisions on the relatively new treatment of myopia management. I can recommend it to every opthomologist who wants to offer myopia management to their patients."
+    content : "Myopiagraph hat mir geholfen, Messungen leicht zu visualisieren und medizinische Entscheidungen über die relativ neue Behandlung der Myopie zu treffen. Ich kann es jedem Augenarzt empfehlen, der seinen Patienten eine Myopiebehandlung anbieten möchte."
 
 ---

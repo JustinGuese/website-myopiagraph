@@ -8,11 +8,11 @@ draft : false
 ########## Address ###############
 contact_info:
   enable : true
-  title : "Our Contact Info"
+  title : "Kontaktinformation"
   address_list:
   - "info@myopiagraph.com"
   - "+49 160 1136770"
-  - "Myopiagraph is a product of: DataFortress.cloud UG, Augsburg, Germany"
+  - "Myopiagraph ist ein Produkt der: DataFortress.cloud UG, Augsburg, Germany"
 
 ############ Services ############
 services:
@@ -25,6 +25,6 @@ services:
   
 ---
 
-## Contact **Us**
+## Kontakt
 
-Do you have any open questions? Custom requests? Or just want to say hello? We are looking forward to hearing from you!
+Haben Sie offene Fragen? Individuelle Wünsche? Oder wollen Sie einfach nur hallo sagen? Wir freuen uns darauf, von Ihnen zu hören!

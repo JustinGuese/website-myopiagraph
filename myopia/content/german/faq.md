@@ -5,69 +5,58 @@ layout : "faq"
 draft : false
 ---
 
-### How to start with Myopiagraph?
+### Wie beginne ich mit Myopiagraph?
 
-#### What is Myopiagraph, and how can it benefit my practice?
+#### Was ist Myopiagraph, und wie kann es meiner Praxis nützen?
 
-**Myopiagraph Overview:**
-Myopiagraph is a specialized software designed for ophthalmologists and eye care practitioners to manage myopia in children. It allows you to visualize myopia progression, generate patient reports, and enhance the understanding of myopia treatment. By integrating data compliance and personalized insights, Myopiagraph can help you build a comprehensive myopia management practice, offering valuable services to your patients.
-
-
-#### Is Myopiagraph compatible with different ophthalmology measurement devices?
-
-**Device Compatibility:**
-Yes, Myopiagraph is designed to be compatible with various ophthalmology measurement devices. Whether you use Haag-Streit Lensstar Myopia, Oculus Myopia Master, Topcon MYAH, or other similar devices, our software seamlessly integrates with them. You can trust Myopiagraph to work harmoniously with your existing tools, making it a versatile addition to your practice.
+**Myopiagraph Überblick:**
+Myopiagraph ist eine spezielle Software für Augenärzte und Augenoptiker zur Behandlung der Myopie bei Kindern. Sie ermöglicht es Ihnen, den Verlauf der Myopie zu visualisieren, Patientenberichte zu erstellen und das Verständnis für die Myopiebehandlung zu verbessern. Durch die Integration von Datenkonformität und personalisierten Einblicken kann Myopiagraph Ihnen helfen, eine umfassende Praxis für Myopiemanagement aufzubauen und Ihren Patienten wertvolle Dienste anzubieten.
 
 
-#### Can Myopiagraph help me generate patient reports and increase patient engagement?
+#### Ist Myopiagraph mit verschiedenen ophthalmologischen Messgeräten kompatibel?
 
-**Patient-Centric Reports:**
-Absolutely! Myopiagraph simplifies the process of generating patient reports. These reports are designed to be patient-centric, offering clear visualizations of myopia progression. By providing patients with understandable insights into their condition, you can increase their engagement in myopia treatment decisions, even for treatments not covered by standard German insurance plans.
+**Gerätekompatibilität:**
+Ja, Myopiagraph ist so konzipiert, dass es mit verschiedenen ophthalmologischen Messgeräten kompatibel ist. Ganz gleich, ob Sie Haag-Streit Lensstar Myopia, Oculus Myopia Master, Topcon MYAH oder andere ähnliche Geräte verwenden, unsere Software lässt sich nahtlos in diese Geräte integrieren. Sie können sich darauf verlassen, dass Myopiagraph harmonisch mit Ihren vorhandenen Geräten zusammenarbeitet und somit eine vielseitige Ergänzung für Ihre Praxis darstellt.
 
+#### Kann Myopiagraph mir helfen, Patientenberichte zu erstellen und die Patientenbindung zu erhöhen?
 
-#### What level of support does Myopiagraph offer?
-
-**User Support:**
-Myopiagraph offers user support to assist you with any questions or issues you may encounter while using our software. While we provide user support, please note that Myopiagraph is provided "as is" during this pilot project. We are committed to helping you make the most of our service, but no specific level of service or availability is guaranteed.
-
-
-#### Is there a plan to expand Myopiagraph's features in the future?
-
-**Future Developments:**
-Yes, we have exciting plans for Myopiagraph's future. We are actively working on new features and improvements to enhance its capabilities. Our goal is to continue evolving to meet the evolving needs of healthcare practitioners and further support myopia management.
+**Patientenzentrierte Berichte:**
+Auf jeden Fall! Myopiagraph vereinfacht den Prozess der Erstellung von Patientenberichten. Diese Berichte sind patientenorientiert und bieten eine klare Visualisierung des Myopieverlaufs. Indem Sie den Patienten verständliche Einblicke in ihren Zustand geben, können Sie ihr Engagement bei der Entscheidung über die Myopiebehandlung erhöhen, selbst bei Behandlungen, die nicht von den üblichen deutschen Versicherungsplänen abgedeckt werden.
 
 
-### Data compliance and security of Myopiagraph
+#### Welchen Umfang an Unterstützung bietet Myopiagraph?
 
-#### What measures are in place to ensure the security of patient data within Myopiagraph?
+**Benutzerunterstützung:**
+Myopiagraph bietet einen Anwendersupport an, der Sie bei allen Fragen und Problemen, die bei der Nutzung unserer Software auftreten können, unterstützt. Bitte beachten Sie, dass Myopiagraph während dieses Pilotprojekts ohne jegliche Einschränkung zur Verfügung gestellt wird. Wir sind bestrebt, Ihnen zu helfen, das Beste aus unserem Service zu machen, aber es wird kein bestimmter Grad an Service oder Verfügbarkeit garantiert.
+#### Gibt es einen Plan, die Funktionen von Myopiagraph in Zukunft zu erweitern?
 
-**Data Security Measures**
-We take data security seriously and have partnered with Hetzner Online, a certified provider with ISO/IEC 27001 accreditation. This certification ensures that Hetzner maintains a robust Information Security Management System (ISMS) covering the infrastructure, operation, and customer support of data center parks across all locations, including Nuremberg, Falkenstein, and Helsinki. This means that Hetzner is committed to upholding strict information security standards, protecting the security, confidentiality, and integrity of your patients' data. Access to our systems is limited to authenticated users only, providing an additional layer of safeguarding.
-
-
-#### How often are security assessments and audits conducted to verify the protection of patient data?
-
-**Security Audits and Assessments:**
-We prioritize continuous improvement in information security. Hetzner's ISO 27001 certification requires regular audits to verify that their Information Security Management System (ISMS) remains current and effective. This means that not only do we start with robust security measures, but we also have an ongoing commitment to assessing and enhancing our security methods. Your patients' data remains protected through consistent evaluations and updates to our security protocols.
+**Zukunftsentwicklungen:**
+Ja, wir haben spannende Pläne für die Zukunft von Myopiagraph. Wir arbeiten aktiv an neuen Funktionen und Verbesserungen, um die Möglichkeiten von Myopiagraph zu erweitern. Unser Ziel ist es, uns weiterzuentwickeln, um den sich verändernden Bedürfnissen der Ärzte gerecht zu werden und das Myopiemanagement weiter zu unterstützen.
 
 
-#### What steps are taken to ensure that only authorized personnel have access to patient information within Myopiagraph?
+### Einhaltung der Datenschutzbestimmungen und Sicherheit von Myopiagraph
 
-**Access Control Measures:**
-Myopiagraph enforces stringent access control measures. Only authenticated and authorized personnel have access to patient information within our system. This ensures that patient data is kept confidential and secure, minimizing the risk of unauthorized access or data breaches. We prioritize safeguarding the integrity of your practice's data.
-
-
-#### Can you provide more details about the partnership with Hetzner Online and how it benefits the security of Myopiagraph?
-
-**Hetzner Online Partnership:*
-Our partnership with Hetzner Online, a certified provider with ISO/IEC 27001 accreditation, is a testament to our commitment to data security. Hetzner's certification covers their data center parks in key locations, demonstrating their dedication to maintaining robust information security standards. This partnership ensures that Myopiagraph is hosted in a secure environment, protecting the data of your practice and patients. Rest assured, our collaboration with Hetzner Online prioritizes data security as a core element of our service.
+#### Welche Maßnahmen werden ergriffen, um die Sicherheit der Patientendaten in Myopiagraph zu gewährleisten?
+**Datensicherheitsmaßnahmen**
+Wir nehmen die Datensicherheit ernst und haben uns mit Hetzner Online zusammengetan, einem zertifizierten Anbieter mit ISO/IEC 27001-Zertifizierung. Diese Zertifizierung stellt sicher, dass Hetzner ein robustes Informationssicherheits-Managementsystem (ISMS) unterhält, das die Infrastruktur, den Betrieb und die Kundenbetreuung der Rechenzentrumsparks an allen Standorten, einschließlich Nürnberg, Falkenstein und Helsinki, abdeckt. Dies bedeutet, dass Hetzner sich zur Einhaltung strenger Informationssicherheitsstandards verpflichtet hat, um die Sicherheit, Vertraulichkeit und Integrität der Daten Ihrer Patienten zu schützen. Der Zugang zu unseren Systemen ist auf authentifizierte Benutzer beschränkt, was eine zusätzliche Sicherheitsebene darstellt.
 
 
-#### How does Myopiagraph ensure data compliance and privacy?
+#### Wie oft werden Sicherheitsbewertungen und Audits durchgeführt, um den Schutz der Patientendaten zu überprüfen?
 
-**Data Compliance and Privacy**
-Myopiagraph prioritizes data security and privacy. Our servers are located in Germany, ensuring compliance with stringent German healthcare regulations. We adhere to the highest standards of data protection, guaranteeing that patient information is handled with the utmost care and confidentiality.
+**Sicherheits-Audits und -Bewertungen:**
+Wir legen großen Wert auf eine kontinuierliche Verbesserung der Informationssicherheit. Die ISO 27001-Zertifizierung von Hetzner erfordert regelmäßige Audits, um zu überprüfen, ob das Informationssicherheitsmanagementsystem (ISMS) aktuell und wirksam ist. Das bedeutet, dass wir nicht nur mit robusten Sicherheitsmaßnahmen beginnen, sondern uns auch ständig bemühen, unsere Sicherheitsmethoden zu bewerten und zu verbessern. Die Daten Ihrer Patienten bleiben durch konsequente Bewertungen und Aktualisierungen unserer Sicherheitsprotokolle geschützt.
+#### Welche Schritte werden unternommen, um sicherzustellen, dass nur befugtes Personal Zugang zu den Patienteninformationen in Myopiagraph hat?
+
+**Zugangskontrollmaßnahmen:**
+Myopiagraph ergreift strenge Maßnahmen zur Zugangskontrolle. Nur authentifiziertes und befugtes Personal hat Zugang zu den Patienteninformationen in unserem System. Dadurch wird sichergestellt, dass die Patientendaten vertraulich und sicher behandelt werden und das Risiko eines unbefugten Zugriffs oder einer Verletzung der Datenschutzbestimmungen minimiert wird. Der Schutz der Integrität der Daten Ihrer Praxis hat für uns höchste Priorität.
 
 
+#### Können Sie uns mehr über die Partnerschaft mit Hetzner Online erzählen und wie sie der Sicherheit von Myopiagraph zugute kommt?
 
+**Hetzner Online Partnerschaft:*
+Unsere Partnerschaft mit Hetzner Online, einem zertifizierten Anbieter mit ISO/IEC 27001 Akkreditierung, ist ein Beweis für unser Engagement in Sachen Datensicherheit. Die Zertifizierung von Hetzner bezieht sich auf die Rechenzentren des Unternehmens an wichtigen Standorten und zeigt, wie sehr sich das Unternehmen für die Aufrechterhaltung robuster Informationssicherheitsstandards einsetzt. Diese Partnerschaft gewährleistet, dass Myopiagraph in einer sicheren Umgebung gehostet wird und die Daten Ihrer Praxis und Ihrer Patienten geschützt werden. Seien Sie versichert, dass unsere Zusammenarbeit mit Hetzner Online die Datensicherheit als ein Kernelement unserer Dienstleistung in den Vordergrund stellt.
 
+#### Wie gewährleistet Myopiagraph die Einhaltung der Datenschutzbestimmungen?
+
+**Datenkonformität und Datenschutz**
+Myopiagraph legt großen Wert auf Datensicherheit und Datenschutz. Unsere Server befinden sich in Deutschland, so dass die strengen deutschen Vorschriften für das Gesundheitswesen eingehalten werden. Wir halten uns an die höchsten Standards des Datenschutzes und garantieren, dass Patienteninformationen mit größter Sorgfalt und Vertraulichkeit behandelt werden.

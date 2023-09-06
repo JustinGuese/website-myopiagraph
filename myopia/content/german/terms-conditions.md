@@ -5,177 +5,177 @@ layout : "regular"
 draft : false
 ---
 
-# Terms and Conditions of
+# Bedingungen und Konditionen von
 
-# **myopiagraph.com**
+**myopiagraph.de**
 
-These Terms govern
+Diese Bedingungen regeln
 
-- the use of this Application, and,
-- any other related Agreement or legal relationship with the Owner
+- die Nutzung dieser Anwendung, und,
+- jede andere damit verbundene Vereinbarung oder Rechtsbeziehung mit dem Eigentümer
 
-in a legally binding way. Capitalised words are defined in the relevant dedicated section of this document.
+in rechtlich verbindlicher Weise. Wörter in Großbuchstaben werden in dem entsprechenden Abschnitt dieses Dokuments definiert.
 
-The User must read this document carefully.
+Der Nutzer muss dieses Dokument sorgfältig lesen.
 
-This Application is provided by:
+Diese Anwendung wird bereitgestellt von:
 
 DataFortress.cloud UG
  Georgenstraße 13
  86152 Augsburg
- Germany
+ Deutschland
  DE345185498
 
-**Owner contact email:**  info@datafortress.cloud
+**Kontakt-E-Mail des Inhabers:** info@datafortress.cloud
 
-**What the User should know at a glance**
+**Was der Nutzer auf einen Blick wissen sollte**
 
-- The Service/this Application is only intended for Users that do not qualify as Consumers, such as Business Users.
+- Der Dienst/diese Anwendung ist nur für Nutzer bestimmt, die nicht als Verbraucher gelten, wie z.B. geschäftliche Nutzer.
 
-**TERMS OF USE**
+**NUTZUNGSBEDINGUNGEN**
 
-Unless otherwise specified, the terms of use detailed in this section apply generally when using this Application.
+Soweit nicht anders angegeben, gelten die in diesem Abschnitt aufgeführten Nutzungsbedingungen generell für die Nutzung dieser Anwendung.
 
-Single or additional conditions of use or access may apply in specific scenarios and in such cases are additionally indicated within this document.
+Einzelne oder zusätzliche Nutzungs- oder Zugangsbedingungen können in bestimmten Szenarien gelten und werden in solchen Fällen zusätzlich in diesem Dokument angegeben.
 
-By using this Application, Users confirm to meet the following requirements:
+Durch die Nutzung dieser Anwendung bestätigen die Nutzer, dass sie die folgenden Anforderungen erfüllen:
 
-- Users may not qualify as Consumers;
+- Nutzer dürfen nicht als Verbraucher gelten;
+- Die Nutzer befinden sich nicht in einem Land, das einem Embargo der US-Regierung unterliegt oder das von der US-Regierung als "terroristenunterstützendes" Land eingestuft wurde;
+- Die Nutzer sind nicht auf einer Liste der US-Regierung mit verbotenen oder eingeschränkten Parteien aufgeführt;
 
-- Users aren't located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist-supporting" country;
-- Users aren't listed on any U.S. Government list of prohibited or restricted parties;
+**Kontoregistrierung**
 
-**Account registration**
+Um den Dienst nutzen zu können, müssen sich die Nutzer registrieren oder ein Nutzerkonto erstellen und dabei alle erforderlichen Daten und Informationen vollständig und wahrheitsgemäß angeben.
+ Andernfalls wird der Dienst nicht zur Verfügung stehen.
 
-To use the Service Users must register or create a User account, providing all required data or information in a complete and truthful manner.
- Failure to do so will cause unavailability of the Service.
+Die Benutzer sind dafür verantwortlich, ihre Anmeldedaten vertraulich und sicher aufzubewahren. Aus diesem Grund sind die Nutzer auch verpflichtet, Passwörter zu wählen, die den höchsten von dieser Anwendung erlaubten Sicherheitsstandards entsprechen.
 
-Users are responsible for keeping their login credentials confidential and safe. For this reason, Users are also required to choose passwords that meet the highest standards of strength permitted by this Application.
+Mit der Registrierung erklären sich die Nutzer damit einverstanden, die volle Verantwortung für alle Aktivitäten zu übernehmen, die unter ihrem Benutzernamen und Passwort stattfinden.
+ Die Nutzer sind verpflichtet, den Eigentümer unverzüglich und unmissverständlich über die in diesem Dokument angegebenen Kontaktdaten zu informieren, wenn sie der Meinung sind, dass ihre persönlichen Informationen, einschließlich, aber nicht beschränkt auf Nutzerkonten, Zugangsberechtigungen oder persönliche Daten, verletzt, unrechtmäßig offengelegt oder gestohlen wurden.
 
-By registering, Users agree to be fully responsible for all activities that occur under their username and password.
- Users are required to immediately and unambiguously inform the Owner via the contact details indicated in this document, if they think their personal information, including but not limited to User accounts, access credentials or personal data, have been violated, unduly disclosed or stolen.
+**Kontokündigung**
 
-**Account termination**
+Nutzer können ihr Konto jederzeit kündigen und die Nutzung des Dienstes einstellen, indem sie Folgendes tun:
 
-Users can terminate their account and stop using the Service at any time by doing the following:
+- Durch direkte Kontaktaufnahme mit dem Eigentümer unter den in diesem Dokument angegebenen Kontaktdaten.
 
-- By directly contacting the Owner at the contact details provided in this document.
+**Sperrung und Löschung von Konten**
 
-**Account suspension and deletion**
+Der Eigentümer behält sich das Recht vor, nach eigenem Ermessen jederzeit und ohne Vorankündigung Benutzerkonten zu sperren oder zu löschen, die er als unangemessen, anstößig oder als Verstoß gegen die vorliegenden Bedingungen betrachtet.
 
-The Owner reserves the right, at its sole discretion, to suspend or delete at any time and without notice, User accounts that it deems inappropriate, offencive or in violation of these Terms.
+Die Sperrung oder Löschung von Nutzerkonten berechtigt die Nutzer nicht zu Entschädigungs-, Schadensersatz- oder Erstattungsansprüchen.
 
-The suspension or deletion of User accounts shall not entitle Users to any claims for compensation, damages or reimbursement.
+Die Sperrung oder Löschung von Konten aufgrund von Ursachen, die dem Nutzer zuzuschreiben sind, befreit den Nutzer nicht von der Zahlung etwaiger anwendbarer Gebühren oder Preise.
 
-The suspension or deletion of accounts due to causes attributable to the User does not exempt the User from paying any applicable fees or prices.
+**Inhalt dieser Anwendung**
 
-**Content on this Application**
+Sofern nicht anders angegeben oder klar erkennbar, sind alle Inhalte, die in dieser Anwendung verfügbar sind, Eigentum des Eigentümers oder seiner Lizenzgeber oder werden von diesen bereitgestellt.
 
-Unless where otherwise specified or clearly recognisable, all content available on this Application is owned or provided by the Owner or its licensors.
+Der Betreiber bemüht sich nach Kräften, dass die auf dieser Anwendung bereitgestellten Inhalte keine geltenden Rechtsvorschriften oder Rechte Dritter verletzen. Es ist jedoch nicht immer möglich, ein solches Ergebnis zu erzielen.
+ In solchen Fällen werden die Nutzer unbeschadet ihrer gesetzlichen Rechte gebeten, Beschwerden vorzugsweise über die in diesem Dokument angegebenen Kontaktdaten zu melden.
 
-The Owner undertakes its utmost effort to ensure that the content provided on this Application infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result.
- In such cases, without prejudice to any legal prerogatives of Users to enforce their rights, Users are kindly asked to preferably report related complaints using the contact details provided in this document.
+**Rechte am Inhalt dieser Anwendung - Alle Rechte vorbehalten**
 
-**Rights regarding content on this Application - All rights reserved**
+Der Eigentümer hält und behält sich alle geistigen Eigentumsrechte an diesen Inhalten vor.
 
-The Owner holds and reserves all intellectual property rights for any such content.
+Die Nutzer dürfen diese Inhalte daher nicht in einer Weise verwenden, die nicht für die ordnungsgemäße Nutzung des Dienstes erforderlich oder implizit ist.
 
-Users may not, therefore, use such content in any way that is not necessary or implicit in the proper use of the Service.
+Insbesondere, aber ohne Einschränkung, dürfen die Nutzer die in dieser Anwendung verfügbaren Inhalte nicht kopieren, herunterladen, weitergeben (über die unten genannten Grenzen hinaus), modifizieren, übersetzen, umwandeln, veröffentlichen, übertragen, verkaufen, unterlizenzieren, bearbeiten, an Dritte übertragen/abtreten oder abgeleitete Werke davon erstellen, noch dürfen sie Dritten gestatten, dies über den Nutzer oder sein Gerät zu tun, auch nicht ohne Wissen des Nutzers.
 
-In particular, but without limitation, Users may not copy, download, share (beyond the limits set forth below), modify, translate, transform, publish, transmit, sell, sublicence, edit, transfer/assign to third parties or create derivative works from the content available on this Application, nor allow any third party to do so through the User or their device, even without the User's knowledge.
+Soweit in dieser Anwendung ausdrücklich angegeben, darf der Nutzer einige über diese Anwendung verfügbare Inhalte für seinen ausschließlich persönlichen und nichtkommerziellen Gebrauch herunterladen, kopieren und/oder weitergeben, vorausgesetzt, dass die Urheberrechtsvermerke und alle anderen vom Eigentümer geforderten Vermerke korrekt umgesetzt werden.
 
-Where explicitly stated on this Application, the User may download, copy and/or share some content available through this Application for its sole personal and non-commercial use and provided that the copyright attributions and all the other attributions requested by the Owner are correctly implemented.
+Jegliche anwendbare gesetzliche Beschränkung oder Ausnahme des Urheberrechts bleibt unberührt.
 
-Any applicable statutory limitation or exception to copyright shall stay unaffected.
+**Zugang zu externen Ressourcen**
 
-**Access to external resources**
+Über diese Anwendung können die Nutzer Zugang zu externen Ressourcen haben, die von Dritten bereitgestellt werden. Die Nutzer erkennen an und akzeptieren, dass der Eigentümer keine Kontrolle über diese Ressourcen hat und daher nicht für deren Inhalt und Verfügbarkeit verantwortlich ist.
 
-Through this Application Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability.
+Die Bedingungen, die für die von Dritten bereitgestellten Ressourcen gelten, einschließlich der Bedingungen für die Gewährung von Rechten an den Inhalten, ergeben sich aus den Allgemeinen Geschäftsbedingungen dieser Dritten oder, in Ermangelung solcher, aus dem anwendbaren gesetzlichen Recht.
 
-Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties' terms and conditions or, in the absence of those, applicable statutory law.
+**Zulässige Nutzung**
 
-**Acceptable use**
+Diese Anwendung und der Dienst dürfen nur im Rahmen ihrer Zweckbestimmung, dieser Bedingungen und des geltenden Rechts genutzt werden.
 
-This Application and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.
+Die Nutzer sind allein dafür verantwortlich, dass ihre Nutzung dieser Anwendung und/oder des Dienstes nicht gegen geltendes Recht, Vorschriften oder Rechte Dritter verstößt.
 
-Users are solely responsible for making sure that their use of this Application and/or the Service violates no applicable law, regulations or third-party rights.
+Der **Eigentümer behält sich daher das Recht vor, alle geeigneten Maßnahmen zu ergreifen, um seine legitimen Interessen zu schützen, einschließlich der Verweigerung des Zugangs zu dieser Anwendung oder dem Dienst, der Beendigung von Verträgen und der Meldung von Fehlverhalten, das über diese Anwendung oder den Dienst begangen wurde, an die zuständigen Behörden - wie z. B. Justiz- oder Verwaltungsbehörden -, wenn Nutzer sich an einer der folgenden Aktivitäten beteiligen oder der Verdacht besteht, dass sie sich an einer dieser Aktivitäten beteiligen:**
 
-Therefore,  **the Owner reserves the right to take any appropriate measure to protect its legitimate interests including by denying Users access to this Application or the Service, terminating contracts, reporting any misconduct performed through this Application or the Service to the competent authorities – such as judicial or administrative authorities - whenever Users engage or are suspected to engage in any of the following activities:**
+- gegen Gesetze, Vorschriften und/oder diese Bedingungen verstoßen;
+- Rechte Dritter verletzen;
+- die berechtigten Interessen des Eigentümers erheblich beeinträchtigen;
+- den Eigentümer oder eine dritte Partei beleidigen.
 
-- violate laws, regulations and/or these Terms;
-- infringe any third-party rights;
-- considerably impair the Owner's legitimate interests;
-- offend the Owner or any third party.
+**Softwarelizenz**
 
-**Software license**
+Alle Rechte an geistigem oder gewerblichem Eigentum und alle anderen ausschließlichen Rechte an Software oder technischen Anwendungen, die in diese Anwendung eingebettet sind oder mit ihr in Zusammenhang stehen, liegen beim Eigentümer und/oder seinen Lizenzgebern.
 
-Any intellectual or industrial property rights, and any other exclusive rights on software or technical applications embedded in or related to this Application are held by the Owner and/or its licensors.
+Vorbehaltlich der Einhaltung durch die Nutzer und ungeachtet abweichender Bestimmungen dieser Bedingungen gewährt der Eigentümer den Nutzern lediglich eine widerrufliche, nicht ausschließliche, nicht unterlizenzierbare und nicht übertragbare Lizenz zur Nutzung der Software und/oder sonstiger technischer Mittel, die in den Dienst eingebettet sind, im Rahmen und für die Zwecke dieser Anwendung und des angebotenen Dienstes.
 
-Subject to Users' compliance with and notwithstanding any divergent provision of these Terms, the Owner merely grants Users a revocable, non-exclusive, non-sublicensable and non-transferable license to use the software and/or any other technical means embedded in the Service within the scope and for the purposes of this Application and the Service offered.
+Diese Lizenz gewährt dem Nutzer keinerlei Rechte auf Zugang, Nutzung oder Offenlegung des Original-Quellcodes. Alle in der Software enthaltenen Techniken, Algorithmen und Verfahren sowie die dazugehörige Dokumentation sind das alleinige Eigentum des Eigentümers oder seiner Lizenzgeber.
 
-This license does not grant Users any rights to access, usage or disclosure of the original source code. All techniques, algorithms, and procedures contained in the software and any documentation thereto related is the Owner's or its licensors' sole property.
+Alle dem Benutzer gewährten Rechte und Lizenzen erlöschen sofort mit der Beendigung oder dem Auslaufen der Vereinbarung.
 
-All rights and license grants to Users shall immediately terminate upon any termination or expiration of the Agreement.
+**Haftung und Entschädigung**
 
-**Liability and indemnification**
+Sofern nicht ausdrücklich anders angegeben oder mit den Nutzern vereinbart, ist die Haftung des Eigentümers für Schäden im Zusammenhang mit der Durchführung des Vertrags ausgeschlossen, begrenzt und/oder reduziert, soweit dies nach geltendem Recht zulässig ist.
 
-Unless otherwise explicitly stated or agreed with Users, the Owner's liability for damages in connection with the execution of the Agreement shall be excluded, limited and/or reduced to the maximum extent permitted by applicable law.
+**Schadensersatz**
 
-**Indemnification**
+Der Nutzer erklärt sich damit einverstanden, den Eigentümer und seine Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Vertreter, Co-Brander, Partner und Mitarbeiter von jeglichen Ansprüchen oder Forderungen - einschließlich, aber nicht beschränkt auf Anwaltsgebühren und -kosten - freizustellen und schadlos zu halten, die von Dritten aufgrund einer schuldhaften Verletzung dieser Bedingungen, der Rechte Dritter oder gesetzlicher Bestimmungen im Zusammenhang mit der Nutzung des Dienstes durch den Nutzer oder seine verbundenen Unternehmen, leitenden Angestellten, Direktoren, Vertreter, Co-Brander, Partner und Mitarbeiter geltend gemacht werden, soweit dies nach geltendem Recht zulässig ist.
 
-The User agrees to indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners and employees harmless from and against any claim or demand ⁠— including but not limited to lawyer's fees and costs ⁠— made by any third party due to or in relation with any culpable violation of these Terms, third-party rights or statutory provisions connected to the use of the Service by the User or its affiliates, officers, directors, agents, co-branders, partners and employees to the extent allowed by applicable law.
+**Haftungsbeschränkung**
 
-**Limitation of liability**
+Soweit nicht ausdrücklich anders angegeben und unbeschadet des anwendbaren Rechts, haben die Nutzer keinen Anspruch auf Schadensersatz gegen den Vermieter (oder eine in seinem Namen handelnde natürliche oder juristische Person).
 
-Unless otherwise explicitly stated and without prejudice to applicable law, Users shall have no right to claim damages against the Owner (or any natural or legal person acting on its behalf).
+Dies gilt nicht für Schäden aus der Verletzung des Lebens, der Gesundheit oder der körperlichen Unversehrtheit, für Schäden aus der Verletzung wesentlicher Vertragspflichten, wie z.B. solcher, die zur Erreichung des Vertragszwecks unbedingt erforderlich sind, und/oder für Schäden, die auf Vorsatz oder grober Fahrlässigkeit beruhen, sofern diese Anwendung vom Nutzer sachgerecht und ordnungsgemäß genutzt wurde.
 
-This does not apply to damages to life, health or physical integrity, damages resulting from the breach of material contractual obligations such as any obligation strictly necessary to achieve the purpose of the contract, and/or damages resulting from intent or gross negligence, as long as this Application has been appropriately and correctly used by the User.
+Für Schäden, die nicht auf Vorsatz oder grober Fahrlässigkeit beruhen oder die das Leben, die Gesundheit oder die körperliche Unversehrtheit betreffen, haftet der Betreiber nur in Höhe des typischen und bei Vertragsschluss vorhersehbaren Schadens.
 
-Unless damages have been caused by way of intent or gross negligence, or they affect life, health or physical integrity, the Owner shall only be liable to the extent of typical and foreseeable damages at the moment the contract was entered into.
+In jedem Haftungsfall darf der Schadensersatz nicht höher sein als die Summe der Zahlungen, die der Vermieter vom Nutzer aufgrund des Vertrages über einen Zeitraum von 12 Monaten oder die Dauer des Vertrages, falls diese kürzer ist, erhalten hat, erhalten wird oder erhalten würde.
 
-In any event of liability, the compensation may not exceed the total payments that have been, will be or would be received by the Owner from the User based on the contract over a period of 12 months, or the period of the duration of the Agreement, if shorter.
+**Australische Nutzer**
 
-**Australian Users**
+**Haftungsbeschränkung**
 
-**Limitation of liability**
+Keine Bestimmung dieser Bedingungen schließt Garantien, Bedingungen, Garantien, Rechte oder Rechtsmittel aus, die dem Nutzer gemäß dem Competition and Consumer Act 2010 (Cth) oder ähnlichen Gesetzen von Bundesstaaten und Territorien zustehen und die nicht ausgeschlossen, eingeschränkt oder modifiziert werden können (nicht ausschließbares Recht). Soweit gesetzlich zulässig, ist unsere Haftung gegenüber dem Nutzer, einschließlich der Haftung für die Verletzung eines nicht ausschließbaren Rechts und der Haftung, die nicht anderweitig gemäß diesen Nutzungsbedingungen ausgeschlossen ist, nach dem alleinigen Ermessen des Eigentümers auf die erneute Erbringung der Dienstleistungen oder die Zahlung der Kosten für die erneute Erbringung der Dienstleistungen beschränkt.
 
-Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar State and Territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms of Use, is limited, at the Owner's sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.
+**US-Benutzer**
 
-**US Users**
+**Gewährleistungsausschluss**
 
-**Disclaimer of Warranties**
+**Diese Anwendung wird ausschließlich auf einer "wie besehen" und "wie verfügbar" Basis bereitgestellt. Die Nutzung des Dienstes erfolgt auf eigenes Risiko der Nutzer. Im größtmöglichen gesetzlich zulässigen Umfang lehnt der Eigentümer ausdrücklich alle Bedingungen, Zusicherungen und Garantien ab - ob ausdrücklich, stillschweigend, gesetzlich oder anderweitig, einschließlich, aber nicht beschränkt auf, jegliche stillschweigende Garantie der Marktgängigkeit, der Eignung für einen bestimmten Zweck oder der Nichtverletzung von Rechten Dritter. Keine Ratschläge oder Informationen, ob mündlich oder schriftlich, die der Nutzer vom Eigentümer oder über den Dienst erhält, begründen eine Garantie, die hier nicht ausdrücklich angegeben ist.
 
-**This Application is provided strictly on an "as is" and "as available" basis. Use of the Service is at Users' own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by the User from the Owner or through the Service will create any warranty not expressly stated herein.**
 
-**Without limiting the foregoing, the Owner, its subsidiaries, affiliates, licensors, officers, directors, agents, co-branders, partners, suppliers and employees do not warrant that the content is accurate, reliable or correct; that the Service will meet Users' requirements; that the Service will be available at any particular time or location, uninterrupted or secure; that any defects or errors will be corrected; or that the Service is free of viruses or other harmful components. Any content downloaded or otherwise obtained through the use of the Service is downloaded at Users' own risk and Users shall be solely responsible for any damage to Users' computer system or mobile device or loss of data that results from such download or Users' use of the Service.**
+**Der Eigentümer, seine Tochtergesellschaften, verbundenen Unternehmen, Lizenzgeber, leitenden Angestellten, Direktoren, Vertreter, Co-Brander, Partner, Lieferanten und Mitarbeiter gewährleisten nicht, dass der Inhalt genau, zuverlässig oder korrekt ist, dass der Dienst den Anforderungen der Nutzer entspricht, dass der Dienst zu einem bestimmten Zeitpunkt oder an einem bestimmten Ort verfügbar, ununterbrochen oder sicher ist, dass etwaige Mängel oder Fehler behoben werden oder dass der Dienst frei von Viren oder anderen schädlichen Komponenten ist. Jeder Inhalt, der heruntergeladen oder anderweitig durch die Nutzung des Dienstes erhalten wird, wird auf eigenes Risiko heruntergeladen, und die Nutzer sind allein verantwortlich für jegliche Schäden am Computersystem oder Mobilgerät des Nutzers oder für Datenverluste, die aus einem solchen Download oder der Nutzung des Dienstes durch den Nutzer resultieren.
 
-**The Owner does not warrant, endorse, guarantee, or assume responsibility for any product or service advertised or offered by a third party through the Service or any hyperlinked website or service, and the Owner shall not be a party to or in any way monitor any transaction between Users and third-party providers of products or services.**
+**Der Eigentümer übernimmt keine Gewährleistung, Befürwortung, Garantie oder Verantwortung für Produkte oder Dienstleistungen, die von Dritten über den Dienst oder eine verlinkte Website oder Dienstleistung beworben oder angeboten werden, und der Eigentümer ist nicht an Transaktionen zwischen Nutzern und Drittanbietern von Produkten oder Dienstleistungen beteiligt und überwacht diese in keiner Weise.**
 
-**The Service may become inaccessible or it may not function properly with Users' web browser, mobile device, and/or operating system. The owner cannot be held liable for any perceived or actual damages arising from Service content, operation, or use of this Service.**
 
-**Federal law, some states, and other jurisdictions, do not allow the exclusion and limitations of certain implied warranties. The above exclusions may not apply to Users. This Agreement gives Users specific legal rights, and Users may also have other rights which vary from state to state. The disclaimers and exclusions under this agreement shall not apply to the extent prohibited by applicable law.**
+**Der Dienst kann unzugänglich werden oder mit dem Webbrowser, dem mobilen Gerät und/oder dem Betriebssystem des Nutzers nicht richtig funktionieren. Der Eigentümer kann nicht für vermeintliche oder tatsächliche Schäden haftbar gemacht werden, die aus dem Inhalt des Dienstes, dem Betrieb oder der Nutzung dieses Dienstes entstehen.**
 
-**Limitations of liability**
+**Bundesgesetze, einige Staaten und andere Gerichtsbarkeiten lassen den Ausschluss und die Beschränkung bestimmter stillschweigender Garantien nicht zu. Die oben genannten Ausschlüsse gelten möglicherweise nicht für Benutzer. Diese Vereinbarung verleiht den Nutzern bestimmte gesetzliche Rechte, und die Nutzer können auch andere Rechte haben, die von Staat zu Staat unterschiedlich sind. Die Haftungsausschlüsse und -beschränkungen in dieser Vereinbarung gelten nicht, soweit sie nach geltendem Recht verboten sind.
 
-**To the maximum extent permitted by applicable law, in no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for:**
+**Haftungsbeschränkungen**
 
-- **any indirect, punitive, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses, arising out of or relating to the use of, or inability to use, the Service; and**
-- **any damage, loss or injury resulting from hacking, tampering or other unauthorised access or use of the Service or User account or the information contained therein;**
-- **any errors, mistakes, or inaccuracies of content;**
-- **personal injury or property damage, of any nature whatsoever, resulting from User access to or use of the Service;**
-- **any unauthorised access to or use of the Owner's secure servers and/or any and all personal information stored therein;**
-- **any interruption or cessation of transmission to or from the Service;**
-- **any bugs, viruses, trojan horses, or the like that may be transmitted to or through the Service;**
-- **any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the Service; and/or**
-- **the defamatory, offensive, or illegal conduct of any User or third party. In no event shall the Owner, and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees be liable for any claims, proceedings, liabilities, obligations, damages, losses or costs in an amount exceeding the amount paid by User to the Owner hereunder in the preceding 12 months, or the period of duration of this agreement between the Owner and User, whichever is shorter.**
+**Der Eigentümer und seine Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Vertreter, Co-Brander, Partner, Lieferanten und Mitarbeiter haften in keinem Fall für:**
 
-**This limitation of liability section shall apply to the fullest extent permitted by law in the applicable jurisdiction whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if the User has been advised of the possibility of such damage.**
+- **jeden indirekten, strafenden, zufälligen, besonderen, Folge- oder exemplarischen Schaden, einschließlich, aber nicht beschränkt auf Schäden aus entgangenem Gewinn, Firmenwert, Nutzung, Daten oder anderen immateriellen Verlusten, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung des Dienstes ergeben; und**
+- **alle Schäden, Verluste oder Verletzungen, die aus Hacking, Manipulationen oder anderen nicht autorisierten Zugriffen oder der Nutzung des Dienstes oder des Benutzerkontos oder der darin enthaltenen Informationen resultieren;**
+- **alle Fehler, Irrtümer oder Ungenauigkeiten des Inhalts;**
+- **Personen- oder Sachschäden jeglicher Art, die sich aus dem Zugriff des Nutzers auf den Dienst oder dessen Nutzung ergeben;**
+- **jeder unbefugte Zugriff auf oder die Nutzung der sicheren Server des Eigentümers und/oder aller darin gespeicherten persönlichen Daten;**
+- **jede Unterbrechung oder Beendigung der Übertragung zum oder vom Dienst;**
+- **alle Bugs, Viren, trojanischen Pferde oder ähnliches, die an oder durch den Dienst übertragen werden können;**
+- **für Fehler oder Auslassungen in Inhalten oder für Verluste oder Schäden, die aus der Nutzung von Inhalten entstehen, die über den Dienst veröffentlicht, per E-Mail versandt, übertragen oder anderweitig zur Verfügung gestellt werden; und/oder**
+- **das verleumderische, beleidigende oder illegale Verhalten eines Nutzers oder einer dritten Partei. In keinem Fall haften der Eigentümer und seine Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Vertreter, Co-Brander, Partner, Lieferanten und Mitarbeiter für Ansprüche, Verfahren, Verbindlichkeiten, Verpflichtungen, Schäden, Verluste oder Kosten in einer Höhe, die den Betrag übersteigt, den der Nutzer in den vorangegangenen 12 Monaten an den Eigentümer gezahlt hat, oder die Dauer dieser Vereinbarung zwischen dem Eigentümer und dem Nutzer, je nachdem, welcher Zeitraum kürzer ist.**
 
-**Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, therefore the above limitations or exclusions may not apply to the User. The terms give User specific legal rights, and User may also have other rights which vary from jurisdiction to jurisdiction. The disclaimers, exclusions, and limitations of liability under the terms shall not apply to the extent prohibited by applicable law.**
+**Dieser Abschnitt über die Haftungsbeschränkung gilt im vollen gesetzlich zulässigen Umfang in der anwendbaren Gerichtsbarkeit, unabhängig davon, ob die angebliche Haftung auf einem Vertrag, einer unerlaubten Handlung, Fahrlässigkeit, verschuldensunabhängiger Haftung oder einer anderen Grundlage beruht, selbst wenn der Nutzer auf die Möglichkeit eines solchen Schadens hingewiesen wurde.**
+**Einige Gerichtsbarkeiten lassen den Ausschluss oder die Beschränkung von zufälligen oder Folgeschäden nicht zu, daher gelten die oben genannten Beschränkungen oder Ausschlüsse möglicherweise nicht für den Nutzer. Die Bedingungen geben dem Nutzer bestimmte Rechte, und der Nutzer kann auch andere Rechte haben, die von Gerichtsbarkeit zu Gerichtsbarkeit variieren. Die Haftungsausschlüsse und -beschränkungen in den Nutzungsbedingungen gelten nicht, soweit dies nach geltendem Recht verboten ist.
 
-**Indemnification**
+**Schadensersatz**
 
-**The User agrees to defend, indemnify and hold the Owner and its subsidiaries, affiliates, officers, directors, agents, co-branders, partners, suppliers and employees harmless from and against any and all claims or demands, damages, obligations, losses, liabilities, costs or debt, and expenses, including, but not limited to, legal fees and expenses, arising from**
+Der Nutzer erklärt sich damit einverstanden, den Eigentümer und seine Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Vertreter, Co-Brander, Partner, Lieferanten und Angestellten zu verteidigen, freizustellen und schadlos zu halten von und gegen alle Ansprüche oder Forderungen, Schäden, Verpflichtungen, Verluste, Verbindlichkeiten, Kosten oder Schulden und Ausgaben, einschließlich, aber nicht beschränkt auf Anwaltsgebühren und -kosten, die aus
 
 - **User's use of and access to the Service, including any data or content transmitted or received by User;**
 - **User's violation of these terms, including, but not limited to, User's breach of any of the representations and warranties set forth in these terms;**
@@ -185,96 +185,93 @@ Nothing in these Terms excludes, restricts or modifies any guarantee, condition,
 - **User's willful misconduct; or**
 - **statutory provision by User or its affiliates, officers, directors, agents, co-branders, partners, suppliers and employees to the extent allowed by applicable law.**
 
-**Common provisions**
+**Gemeinsame Bestimmungen**
 
-**No Waiver**
+**Kein Verzicht**
 
-The Owner's failure to assert any right or provision under these Terms shall not constitute a waiver of any such right or provision. No waiver shall be considered a further or continuing waiver of such term or any other term.
+Das Versäumnis des Eigentümers, ein Recht oder eine Bestimmung im Rahmen dieser Bedingungen geltend zu machen, gilt nicht als Verzicht auf ein solches Recht oder eine solche Bestimmung. Kein Verzicht gilt als weiterer oder andauernder Verzicht auf diese oder eine andere Bestimmung.
 
-**Service interruption**
+**Dienstunterbrechung**
 
-To ensure the best possible service level, the Owner reserves the right to interrupt the Service for maintenance, system updates or any other changes, informing the Users appropriately.
+Um ein bestmögliches Serviceniveau zu gewährleisten, behält sich der Eigentümer das Recht vor, den Dienst für Wartungsarbeiten, Systemaktualisierungen oder andere Änderungen zu unterbrechen und die Benutzer entsprechend zu informieren.
 
-Within the limits of law, the Owner may also decide to suspend or discontinue the Service altogether. If the Service is discontinued, the Owner will cooperate with Users to enable them to withdraw Personal Data or information and will respect Users' rights relating to continued product use and/or compensation, as provided for by applicable law.
+Im Rahmen der gesetzlichen Bestimmungen kann der Eigentümer auch beschließen, den Dienst auszusetzen oder ganz einzustellen. Wenn der Dienst eingestellt wird, wird der Eigentümer mit den Nutzern zusammenarbeiten, um ihnen die Möglichkeit zu geben, persönliche Daten oder Informationen zurückzuziehen, und er wird die Rechte der Nutzer in Bezug auf die weitere Nutzung des Produkts und/oder eine Entschädigung respektieren, wie es das geltende Recht vorsieht.
 
-Additionally, the Service might not be available due to reasons outside the Owner's reasonable control, such as "force majeure" events (infrastructural breakdowns or blackouts etc.).
+Darüber hinaus kann der Dienst aus Gründen, die außerhalb der Kontrolle des Eigentümers liegen, nicht zur Verfügung stehen, wie z. B. Ereignisse höherer Gewalt (Infrastrukturausfälle oder Stromausfälle usw.).
+**Weiterverkauf von Diensten**
 
-**Service reselling**
+Nutzer dürfen keinen Teil dieser Anwendung und ihres Dienstes ohne die ausdrückliche vorherige schriftliche Genehmigung des Eigentümers, die entweder direkt oder über ein rechtmäßiges Wiederverkaufsprogramm erteilt wird, reproduzieren, vervielfältigen, kopieren, verkaufen, weiterverkaufen oder verwerten.
 
-Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of this Application and of its Service without the Owner's express prior written permission, granted either directly or through a legitimate reselling program.
+**Datenschutzbestimmungen**
 
-**Privacy policy**
+Um mehr über die Verwendung ihrer persönlichen Daten zu erfahren, können die Nutzer die Datenschutzrichtlinien dieser Anwendung einsehen.
 
-To learn more about the use of their Personal Data, Users may refer to the privacy policy of this Application.
+**Geistige Eigentumsrechte**
 
-**Intellectual property rights**
+Unbeschadet spezifischerer Bestimmungen dieser Bedingungen sind alle Rechte an geistigem Eigentum, wie z. B. Urheberrechte, Markenrechte, Patentrechte und Designrechte im Zusammenhang mit dieser Anwendung das ausschließliche Eigentum des Eigentümers oder seiner Lizenzgeber und unterliegen dem Schutz, der durch die geltenden Gesetze oder internationalen Verträge über geistiges Eigentum gewährt wird.
 
-Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to this Application are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.
+Alle Marken - nominal oder bildlich - und alle anderen Marken, Handelsnamen, Dienstleistungsmarken, Wortmarken, Illustrationen, Bilder oder Logos, die in Verbindung mit dieser Anwendung erscheinen, sind und bleiben das ausschließliche Eigentum des Eigentümers oder seiner Lizenzgeber und unterliegen dem Schutz, der durch geltende Gesetze oder internationale Verträge in Bezug auf geistiges Eigentum gewährt wird.
 
-All trademarks — nominal or figurative — and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with this Application are, and remain, the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties related to intellectual property.
+**Änderungen der vorliegenden Bedingungen**
 
-**Changes to these Terms**
+Der Eigentümer behält sich das Recht vor, diese Bedingungen jederzeit zu ergänzen oder anderweitig zu ändern. In solchen Fällen wird der Eigentümer den Nutzer in angemessener Weise über diese Änderungen informieren.
 
-The Owner reserves the right to amend or otherwise modify these Terms at any time. In such cases, the Owner will appropriately inform the User of these changes.
+Solche Änderungen wirken sich nur auf die Beziehung mit dem Nutzer ab dem Datum aus, an dem sie dem Nutzer mitgeteilt wurden.
 
-Such changes will only affect the relationship with the User from the date communicated to Users onwards.
+**Die fortgesetzte Nutzung des Dienstes bedeutet, dass der Nutzer die geänderten Bedingungen akzeptiert.** Wenn der Nutzer nicht an die Änderungen gebunden sein möchte, muss er die Nutzung des Dienstes einstellen und kann den Vertrag kündigen.
 
-**The continued use of the Service will signify the User's acceptance of the revised Terms.**  If Users do not wish to be bound by the changes, they must stop using the Service and may terminate the Agreement.
+Die geltende Vorgängerversion regelt die Beziehung vor der Annahme durch den Nutzer. Der Nutzer kann jede frühere Version vom Eigentümer erhalten.
 
-The applicable previous version will govern the relationship prior to the User's acceptance. The User can obtain any previous version from the Owner.
+Falls gesetzlich vorgeschrieben, wird der Vermieter die Nutzer im Voraus über das Inkrafttreten der geänderten Bedingungen informieren.
 
-If legally required, the Owner will notify Users in advance of when the modified Terms will take effect.
+**Abtretung des Vertrags**
 
-**Assignment of contract**
+Der Vermieter behält sich das Recht vor, unter Berücksichtigung der berechtigten Interessen des Nutzers einzelne oder alle Rechte oder Pflichten aus diesen Bedingungen zu übertragen, abzutreten, durch Novation zu veräußern oder einen Untervertrag abzuschließen. Die Bestimmungen über die Änderung der vorliegenden Bedingungen gelten entsprechend.
 
-The Owner reserves the right to transfer, assign, dispose of by novation, or subcontract any or all rights or obligations under these Terms, taking the User's legitimate interests into account. Provisions regarding changes of these Terms will apply accordingly.
+Die Nutzer dürfen ihre Rechte oder Pflichten aus diesen Bedingungen ohne schriftliche Genehmigung des Eigentümers in keiner Weise abtreten oder übertragen.
 
-Users may not assign or transfer their rights or obligations under these Terms in any way, without the written permission of the Owner.
+**Kontakte**
 
-**Contacts**
+Alle Mitteilungen, die sich auf die Nutzung dieser Anwendung beziehen, müssen unter Verwendung der in diesem Dokument angegebenen Kontaktinformationen gesendet werden.
 
-All communications relating to the use of this Application must be sent using the contact information stated in this document.
+**Widerruflichkeit**
 
-**Severability**
+Sollte eine Bestimmung dieser Bedingungen nach geltendem Recht als ungültig oder nicht durchsetzbar gelten oder werden, so berührt die Ungültigkeit oder Nichtdurchsetzbarkeit einer solchen Bestimmung nicht die Gültigkeit der übrigen Bestimmungen, die in vollem Umfang gültig und wirksam bleiben.
 
-Should any provision of these Terms be deemed or become invalid or unenforceable under applicable law, the invalidity or unenforceability of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
+**US-Benutzer**
 
-**US Users**
+Jede solche ungültige oder nicht durchsetzbare Bestimmung wird in dem Maße interpretiert, ausgelegt und umgestaltet, wie es vernünftigerweise erforderlich ist, um sie gültig und durchsetzbar zu machen und mit ihrer ursprünglichen Absicht in Einklang zu bringen. Diese Bedingungen stellen die gesamte Vereinbarung zwischen den Nutzern und dem Eigentümer in Bezug auf den Vertragsgegenstand dar und ersetzen alle anderen Mitteilungen, einschließlich, aber nicht beschränkt auf alle früheren Vereinbarungen, zwischen den Parteien in Bezug auf diesen Vertragsgegenstand. Diese Bedingungen werden im größtmöglichen, gesetzlich zulässigen Umfang durchgesetzt.
 
-Any such invalid or unenforceable provision will be interpreted, construed and reformed to the extent reasonably required to render it valid, enforceable and consistent with its original intent. These Terms constitute the entire Agreement between Users and the Owner with respect to the subject matter hereof, and supersede all other communications, including but not limited to all prior agreements, between the parties with respect to such subject matter. These Terms will be enforced to the fullest extent permitted by law.
+**EU-Benutzer**
 
-**EU Users**
+Sollte eine Bestimmung dieser Bedingungen nichtig, ungültig oder nicht durchsetzbar sein oder als ungültig oder nicht durchsetzbar angesehen werden, werden die Parteien ihr Bestes tun, um auf gütlichem Wege eine Vereinbarung über gültige und durchsetzbare Bestimmungen zu finden, die die nichtigen, ungültigen oder nicht durchsetzbaren Teile ersetzt.
+ Gelingt dies nicht, so werden die nichtigen, ungültigen oder nicht durchsetzbaren Bestimmungen durch die anwendbaren gesetzlichen Bestimmungen ersetzt, sofern dies nach dem anwendbaren Recht zulässig oder vorgesehen ist.
+ Unbeschadet des Vorstehenden hat die Nichtigkeit, Ungültigkeit oder Unmöglichkeit, eine bestimmte Bestimmung dieser Bedingungen durchzusetzen, nicht die Nichtigkeit der gesamten Vereinbarung zur Folge, es sei denn, die abgetrennten Bestimmungen sind wesentlich für die Vereinbarung oder von solcher Bedeutung, dass die Parteien den Vertrag nicht geschlossen hätten, wenn sie gewusst hätten, dass die Bestimmung nicht gültig ist, oder in Fällen, in denen die verbleibenden Bestimmungen eine unzumutbare Härte für eine der Parteien bedeuten würden.
 
-Should any provision of these Terms be or be deemed void, invalid or unenforceable, the parties shall do their best to find, in an amicable way, an agreement on valid and enforceable provisions thereby substituting the void, invalid or unenforceable parts.
- In case of failure to do so, the void, invalid or unenforceable provisions shall be replaced by the applicable statutory provisions, if so permitted or stated under the applicable law.
+**Geltendes Recht**
 
-Without prejudice to the above, the nullity, invalidity or impossibility to enforce a particular provision of these Terms shall not nullify the entire Agreement, unless the severed provisions are essential to the Agreement, or of such importance that the parties would not have entered into the contract if they had known that the provision would not be valid, or in cases where the remaining provisions would translate into an unacceptable hardship on any of the parties.
+Die vorliegenden Bedingungen unterliegen dem Recht des Ortes, an dem der Eigentümer seinen Sitz hat, wie im entsprechenden Abschnitt dieses Dokuments angegeben, ohne Berücksichtigung der Grundsätze des Kollisionsrechts.
 
-**Governing law**
+**Vorrangiges nationales Recht**
 
-These Terms are governed by the law of the place where the Owner is based, as disclosed in the relevant section of this document, without regard to conflict of laws principles.
+Sollte das Recht des Landes, in dem der Nutzer ansässig ist, höhere Verbraucherschutzstandards vorsehen, so haben diese Vorrang vor den oben genannten Bestimmungen.
 
-**Prevalence of national law**
+**Ausnahme für Verbraucher in Brasilien**
 
-However, regardless of the above, if the law of the country that the User is located in provides for higher applicable consumer protection standards, such higher standards shall prevail.
+Wenn der Nutzer als Verbraucher in Brasilien gilt und das Produkt und/oder die Dienstleistung in Brasilien vermarktet wird, findet brasilianisches Recht Anwendung.
+**Gerichtsstand**
 
-**Exception for Consumers in Brazil**
+Die ausschließliche Zuständigkeit für die Entscheidung von Streitigkeiten, die sich aus den vorliegenden Bedingungen ergeben oder damit zusammenhängen, liegt bei den Gerichten des Ortes, an dem der Eigentümer seinen Sitz hat, wie im entsprechenden Abschnitt dieses Dokuments angegeben.
 
-If the User qualifies as a Consumer in Brazil and the product and/or service is commercialised in Brazil, Brazilian law will apply.
+**Ausnahme für Verbraucher in Europa**
 
-**Venue of jurisdiction**
+Das Vorstehende gilt weder für Nutzer, die als europäische Verbraucher gelten, noch für Verbraucher mit Sitz im Vereinigten Königreich, der Schweiz, Norwegen oder Island.
 
-The exclusive competence to decide on any controversy resulting from or connected to these Terms lies with the courts of the place where the Owner is based, as displayed in the relevant section of this document.
+**Ausnahme für Verbraucher in Brasilien**
 
-**Exception for Consumers in Europe**
+Die obigen Bestimmungen gelten nicht für Nutzer in Brasilien, die als Verbraucher eingestuft werden.
 
-The above does not apply to any Users that qualify as European Consumers, nor to Consumers based in the United Kingdom, Switzerland, Norway or Iceland.
+**US-Benutzer**
 
-**Exception for Consumers in Brazil**
-
-The above does not apply to Users in Brazil that qualify as Consumers.
-
-**US Users**
-
-**Each party specifically waives any right to trial by jury in any court in connection with any action or litigation.**
-**Any claims under these terms shall proceed individually and no party shall join in a class action or other proceeding with or on behalf of others.**
+**Jede Partei verzichtet ausdrücklich auf das Recht auf ein Schwurgerichtsverfahren vor einem beliebigen Gericht im Zusammenhang mit einer Klage oder einem Rechtsstreit.
+**Jegliche Ansprüche im Rahmen dieser Bedingungen sind einzeln geltend zu machen, und keine Partei darf sich an einer Sammelklage oder einem anderen Verfahren mit oder im Namen anderer beteiligen.**

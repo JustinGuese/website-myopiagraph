@@ -2,7 +2,7 @@
 title : "Pricing"
 description : "this is meta description"
 layout : "pricing"
-offer : "Save up to 50% On Annual Plans"
+offer : "Sparen Sie bis zu 50% bei Jahresplänen"
 # you can set only monthly, only yearly, or toggle both
 monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
 draft : false
@@ -12,53 +12,53 @@ draft : false
 pricing_card:
 # pricing table
 - name : "Free"
-  content : "The free plan includes everything to just getting started."
+  content : "Der kostenlose Plan enthält alles, was man für den Anfang braucht."
   currency: "€"
   monthly_price : "0"
   yearly_price : "0"
   featured : false
-  button_label : "Start Free Trial"
+  button_label : "Gratis testen"
   button_link : "https://app.myopiagraph.com/"
   services:
-  - "1 User"
-  - "Up to 10 patients"
-  - "All visualization and tracking features enabled"
-  - "Watermarks on reports"
-  - "Shared servers"
+  - "1 Benutzer"
+  - "Bis zu 10 Patienten"
+  - "Alle Visualisierungs- und Nachverfolgungsfunktionen aktiviert"
+  - "Wasserzeichen auf Berichten"
+  - "Gemeinsam genutzte Server"
   
 # pricing table
 - name : "Starter"
-  content : "The starter plan is the ideal starting point for everyone being serious about Myopia management."
+  content : "Der Einstiegsplan ist der ideale Ausgangspunkt für alle, die sich ernsthaft mit dem Thema Myopie auseinandersetzen."
   currency: "€"
   monthly_price : "9"
   yearly_price : "99"
   featured : true
-  button_label : "Start Free Trial"
+  button_label : "Gratis testen"
   button_link : "https://app.myopiagraph.com/"
   services:
-  - "5 Users"
-  - "Up to 100 patients included, every additional patient is billed 10€/year"
-  - "All visualization and tracking features enabled"
-  - "Shared servers"
+  - "5 Benutzer"
+  - "Bis zu 100 Patienten inklusive, jeder weitere Patient wird mit 10€/Jahr berechnet"
+  - "Alle Visualisierungs- und Tracking-Funktionen aktiviert"
+  - "Gemeinsam genutzte Server"
   
 # pricing table
 - name : "Enterprise"
-  content : "Ideal for everyone who wants to take their Myopia management to the next level including backups, compliance and collaboration features."
+  content : "Ideal für alle, die ihre Myopia-Verwaltung auf die nächste Stufe heben wollen, einschließlich Backups, Compliance- und Kollaborationsfunktionen."
   currency: "€"
   monthly_price : "199"
   yearly_price : "1499"
   featured : false
-  button_label : "Contact us"
-  button_link : "/contact"
+  button_label : "Kontakt"
+  button_link : "/de/contact"
   services:
-  - "Unlimited Users"
-  - "Advanced backup and restore features"
-  - "Compliance features like audit logs and data export"
-  - "10 year data retention to fulfill legal requirements"
-  - "Dedicated servers"
+  - "Unbegrenzte Anzahl von Benutzern"
+  - "Erweiterte Sicherungs- und Wiederherstellungsfunktionen"
+  - "Compliance-Funktionen wie Audit-Protokolle und Datenexport"
+  - "10 Jahre Datenaufbewahrung zur Erfüllung gesetzlicher Anforderungen"
+  - "Dedizierte Server"
 
 ---
 
-## Choosing the right **Plan**
+## Die Wahl des richtigen **Plans**
 
-Whether you're embarking on your myopia management journey or need comprehensive compliance solutions, Myopiagraph has you covered. Dive in with our 14-day free trial for a taste of what's possible, or opt for our Enterprise plan for advanced features tailored to larger organizations and stringent compliance needs.
+Ganz gleich, ob Sie mit dem Myopiemanagement beginnen oder umfassende Lösungen für die Einhaltung von Vorschriften benötigen, Myopiagraph bietet Ihnen alles, was Sie brauchen. Nutzen Sie unsere 14-tägige kostenlose Testversion, um einen Vorgeschmack auf die Möglichkeiten zu erhalten, oder entscheiden Sie sich für unseren Enterprise-Plan mit erweiterten Funktionen, die auf größere Organisationen und strenge Compliance-Anforderungen zugeschnitten sind.

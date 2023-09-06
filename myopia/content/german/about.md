@@ -7,14 +7,15 @@ draft : false
 ################## Mission ###############
 mission:
   enable : true
-  title : "Our mission is to **empower practices** with a tool to treat Myopia in children"
+  title : "Unser Ziel ist es, **Praxen** ein Werkzeug zur Behandlung von Myopie bei Kindern an die Hand zu geben"
   image : "images/about/02.jpg"
-  content : "For DataFortress.cloud and esteemed ophthalmologist Dr. med. Timea Kanona the mission is crystal clear: to fill the void in myopia management. Driven by the realization that a truly comprehensive tool was missing, we've tirelessly developed Myopiagraph, a visionary solution that unites precision, innovation, and unwavering commitment to elevate the standard of care for every child with myopia."
+  content : "Für DataFortress.cloud und die geschätzte Augenärztin Dr. med. Timea Kanona ist die Mission klar. Timea Kanona ist die Mission glasklar: die Lücke im Myopie-Management zu füllen. Angetrieben von der Erkenntnis, dass ein wirklich umfassendes Werkzeug fehlte, haben wir unermüdlich Myopiagraph entwickelt, eine visionäre Lösung, die Präzision, Innovation und unermüdliches Engagement vereint, um den Standard der Versorgung für jedes Kind mit Myopie zu verbessern."
   bulletpoints:
-    - "Developed a data warehouse for an international leading fasting clinic"
-    - "Introduced and implemented Myopia management in a leading German MVZ"
-    - "Successfully implemented and consulted a clinic in the transition to 'Kliniklandeskrankenhausgesetz'-data-compliance"
+    - "Entwicklung eines Data Warehouse für eine international führende Fastenklinik"
+    - "Einführung und Umsetzung von Myopiemanagement in einem führenden deutschen MVZ"
+    - "Erfolgreiche Umsetzung und Beratung einer Klinik bei der Umstellung auf Kliniklandeskrankenhausgesetz-Datenkonformität"
 
+    
 ################## Funfacts ###############
 funfacts:
   enable : true
@@ -39,9 +40,9 @@ funfacts:
 ################## vision ###############
 vision:
   enable : true
-  title : "What makes us **special**?"
+  title : "Was macht uns **besonders**?"
   image : "images/about/03.jpg"
-  content : "What sets us apart is our unwavering commitment to two fundamental pillars: data compliance and collaboration with medical experts. With our servers securely housed in Germany, we prioritize the highest standards of data security and privacy, ensuring the utmost protection for patient information. Furthermore, our close partnership with esteemed medical professionals, like ophthalmologist Dr. med. Timea Kanona, guarantees that Myopiagraph is not just a software but a solution tailored to the precise needs of healthcare providers and their young patients. Trust in us for excellence in myopia management."
+  content : "Was uns von anderen abhebt, ist unser unerschütterliches Bekenntnis zu zwei Grundpfeilern: Daten-Compliance und Zusammenarbeit mit medizinischen Experten. Da unsere Server sicher in Deutschland untergebracht sind, legen wir höchsten Wert auf Datensicherheit und Datenschutz, um den größtmöglichen Schutz der Patienteninformationen zu gewährleisten. Darüber hinaus garantiert unsere enge Zusammenarbeit mit angesehenen Medizinern, wie der Augenärztin Dr. med. Timea Kanona, dass MyPatient.com auch in Zukunft die besten Ergebnisse erzielt. Timea Kanona, garantiert, dass Myopiagraph nicht nur eine Software ist, sondern eine Lösung, die genau auf die Bedürfnisse von Ärzten und ihren jungen Patienten zugeschnitten ist. Vertrauen Sie auf uns, wenn es um das Management von Myopie geht."
 
 
 ############### Featured testimonial ###############

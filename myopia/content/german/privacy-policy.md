@@ -5,49 +5,45 @@ layout : "regular"
 draft : false
 ---
 
-# Privacy Policy
+# Datenschutzbestimmungen
 
 
-Myopiagraph is a product of [DataFortress.cloud UG](https://datafortress.cloud). The team of Myopiagraph is committed to safeguarding the privacy of our users and their data. This privacy policy outlines how we collect, use, store, and protect personal data in compliance with German data protection regulations.
+Myopiagraph ist ein Produkt der [DataFortress.cloud UG](https://datafortress.cloud). Das Team von Myopiagraph ist bestrebt, die Privatsphäre unserer Nutzer und deren Daten zu schützen. Diese Datenschutzerklärung beschreibt, wie wir personenbezogene Daten in Übereinstimmung mit den deutschen Datenschutzbestimmungen erheben, nutzen, speichern und schützen.
 
-Personal Data processed for the following purposes and using the following services:
+Personenbezogene Daten werden für die folgenden Zwecke und unter Nutzung der folgenden Dienste verarbeitet:
 
-### Advertising
+### Werbung
 
-- LinkedIn Ads
-    - Personal Data: Trackers; Usage Data
+- LinkedIn-Anzeigen
+    - Personenbezogene Daten: Tracker; Nutzungsdaten### Analytik
+- Google Analytics (Universal Analytics), Meta Ads Conversion Tracking (Meta Pixel) und Google Ads Conversion Tracking
+    - Persönliche Daten: Tracker; Nutzungsdaten
+- LinkedIn Conversion-Tracking (LinkedIn Insight Tag)
+    - Personenbezogene Daten: Geräteinformationen; Tracker; Nutzungsdaten
 
-### Analytics
-
-- Google Analytics (Universal Analytics), Meta ads conversion tracking (Meta pixel) and Google Ads conversion tracking
-    - Personal Data: Trackers; Usage Data
-- LinkedIn conversion tracking (LinkedIn Insight Tag)
-    - Personal Data: device information; Trackers; Usage Data
-
-### Hosting and backend infrastructure
+### Hosting und Backend-Infrastruktur
     
-- GitHub Pages
-    - Personal Data: various types of Data as specified in the privacy policy of the service
+- GitHub-Seiten
+    - Personenbezogene Daten: verschiedene Arten von Daten, wie in den Datenschutzbestimmungen des Dienstes angegeben
 
-### Remarketing and behavioural targeting
+### Remarketing und verhaltensorientiertes Targeting
 
 - Google Ads Remarketing
-    - Personal Data: Trackers; Usage Data
+    - Personenbezogene Daten: Tracker; Nutzungsdaten
 
+## Informationen zum Ausstieg aus der interessenbezogenen Werbung
 
-## Information on opting out of interest-based advertising
+Zusätzlich zu den Opt-out-Funktionen, die von den in diesem Dokument aufgeführten Diensten angeboten werden, können die Nutzer den Anweisungen von YourOnlineChoices (EU), der Network Advertising Initiative (USA) und der Digital Advertising Alliance (USA), DAAC (Kanada), DDAI (Japan) oder anderen ähnlichen Initiativen folgen. Diese Initiativen ermöglichen es den Benutzern, ihre Tracking-Präferenzen für die meisten Werbetools auszuwählen. Der Eigentümer empfiehlt den Nutzern daher, diese Ressourcen zusätzlich zu den in diesem Dokument enthaltenen Informationen zu nutzen.
+Die Digital Advertising Alliance bietet eine Anwendung namens AppChoices an, die den Nutzern hilft, interessenbasierte Werbung in mobilen Anwendungen zu kontrollieren.
+Die Nutzer können bestimmte Werbefunktionen auch über die entsprechenden Geräteeinstellungen deaktivieren, z. B. über die Werbeeinstellungen für Mobiltelefone oder die allgemeinen Werbeeinstellungen.
 
-In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the instructions provided by YourOnlineChoices (EU), the Network Advertising Initiative (US) and the Digital Advertising Alliance (US), DAAC (Canada), DDAI (Japan) or other similar initiatives. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document.
-The Digital Advertising Alliance offers an application called AppChoices that helps Users to control interest-based advertising on mobile apps.
-Users may also opt-out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
-
-Contact information
-Owner and Data Controller
+Kontaktinformationen
+Eigentümer und Datenverantwortlicher
 DataFortress.cloud UG 
 Georgenstraße 13 
 86152 Augsburg 
-Germany 
+Deutschland 
 DE345185498
-Owner contact email: info@datafortress.cloud
+Kontakt-E-Mail des Inhabers: info@datafortress.cloud
 
-Latest update: 6 September 2023
+Letzte Aktualisierung: 6. September 2023
