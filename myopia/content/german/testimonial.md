@@ -6,50 +6,10 @@ draft : false
 
 ################ Testimonial ###############
 testimonial_item:
-- name : "Angela Markel"
+- name : "Dr. med. Rabbit Cupcake"
   image : "images/users/01.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/02.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/03.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/01.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/02.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/03.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/01.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/02.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
-  
-- name : "Angela Markel"
-  image : "images/users/03.jpg"
-  designation : "CEO, Angular Corporation"
-  content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
+  designation : "South Blicking Inc"
+  content : "Myopiagraph helped me to easily visualize measurements and form medical decisions on the relatively new treatment of myopia management. I can recommend it to every opthomologist who wants to offer myopia management to their patients."
 
 
 ##################### Featured Testimonial ################
@@ -64,5 +24,6 @@ featured_testimonial:
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
 ---
 
-## What Our **Client says**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+## What Our **Clients say**
+
+Myopiagraph helps practices implement myopia management in a way that is easy to understand for patients and parents.

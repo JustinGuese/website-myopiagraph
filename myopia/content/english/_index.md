@@ -10,11 +10,11 @@ banner:
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
     enable : true
-    form_acttion : "#"
-    button_label : "Request Demo"
+    form_action : "https://formspree.io/f/xeqwvqbl"
+    button_label : "Request a Demo"
   button:
     enable : true
-    icon : "images/brands/google.png"
+    # icon : "images/brands/google.png"
     label : "Free 14 day demo access"
     link : "https://v2.myopiagraph.com"
     content : "No credit card required. You will be contacted before the end of the trial period to discuss a subscription plan."

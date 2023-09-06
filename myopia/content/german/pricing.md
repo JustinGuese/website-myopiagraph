@@ -2,7 +2,7 @@
 title : "Pricing"
 description : "this is meta description"
 layout : "pricing"
-offer : "Save 50% On Annual Subscription"
+offer : "Save up to 50% On Annual Plans"
 # you can set only monthly, only yearly, or toggle both
 monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
 draft : false
@@ -11,50 +11,54 @@ draft : false
 # pricing card
 pricing_card:
 # pricing table
-- name : "Team"
-  content : "Lorem ipsum dolor sit amet, confsectur justo. Massa augue neque proin adipisng."
-  currency: "$"
-  monthly_price : "39"
-  yearly_price : "139"
+- name : "Free"
+  content : "The free plan includes everything to just getting started."
+  currency: "€"
+  monthly_price : "0"
+  yearly_price : "0"
   featured : false
   button_label : "Start Free Trial"
-  button_link : "#"
+  button_link : "https://app.myopiagraph.com/"
   services:
-  - "Track Reward Part Program"
-  - "Design and prototype powerful"
-  - "Keep work in unlimited storage"
-  - "Add people document handoff."
+  - "1 User"
+  - "Up to 10 patients"
+  - "All visualization and tracking features enabled"
+  - "Watermarks on reports"
+  - "Shared servers"
   
 # pricing table
-- name : "Business"
-  content : "Lorem ipsum dolor sit amet, confsectur justo. Massa augue neque proin adipisng."
-  currency: "$"
-  monthly_price : "99"
-  yearly_price : "199"
+- name : "Starter"
+  content : "The starter plan is the ideal starting point for everyone being serious about Myopia management."
+  currency: "€"
+  monthly_price : "9"
+  yearly_price : "99"
   featured : true
   button_label : "Start Free Trial"
-  button_link : "#"
+  button_link : "https://app.myopiagraph.com/"
   services:
-  - "Track Reward Part Program"
-  - "Design and prototype powerful"
-  - "Keep work in unlimited storage"
-  - "Add people document handoff."
+  - "5 Users"
+  - "Up to 100 patients included, every additional patient is billed 10€/year"
+  - "All visualization and tracking features enabled"
+  - "Shared servers"
   
 # pricing table
 - name : "Enterprise"
-  content : "Lorem ipsum dolor sit amet, confsectur justo. Massa augue neque proin adipisng."
-  currency: "$"
-  monthly_price : "129"
-  yearly_price : "229"
+  content : "Ideal for everyone who wants to take their Myopia management to the next level including backups, compliance and collaboration features."
+  currency: "€"
+  monthly_price : "199"
+  yearly_price : "1499"
   featured : false
-  button_label : "Start Free Trial"
-  button_link : "#"
+  button_label : "Contact us"
+  button_link : "/contact"
   services:
-  - "Track Reward Part Program"
-  - "Design and prototype powerful"
-  - "Keep work in unlimited storage"
-  - "Add people document handoff."
+  - "Unlimited Users"
+  - "Advanced backup and restore features"
+  - "Compliance features like audit logs and data export"
+  - "10 year data retention to fulfill legal requirements"
+  - "Dedicated servers"
+
 ---
 
-## Choose **Pricing**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+## Choosing the right **Plan**
+
+Whether you're embarking on your myopia management journey or need comprehensive compliance solutions, Myopiagraph has you covered. Dive in with our 14-day free trial for a taste of what's possible, or opt for our Enterprise plan for advanced features tailored to larger organizations and stringent compliance needs.
