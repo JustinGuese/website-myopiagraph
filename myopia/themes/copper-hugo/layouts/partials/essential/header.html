@@ -74,6 +74,13 @@
         </ul>
 
         <div class="navbar-button">
+          {{ with site.Params.navigation_button_bordered_secondary}}
+          {{ if .enable }}
+          <a {{if .link}}href="{{.link | relLangURL}}" {{else}}data-bs-toggle="modal" data-bs-target="#signup-modal"
+            {{end}} class="btn btn-sm btn-outline-secondary">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+
           {{ with site.Params.navigation_button_bordered}}
           {{ if .enable }}
           <a {{if .link}}href="{{.link | relLangURL}}" {{else}}data-bs-toggle="modal" data-bs-target="#signup-modal"

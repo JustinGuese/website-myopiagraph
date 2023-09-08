@@ -41,7 +41,12 @@ greetings_to = "Copper"
 [navigation_button_bordered]
 enable = true
 label = "Free Trial"
-link = "https://app.myopiagraph.com/"
+link = "/free-trial"
+
+[navigation_button_bordered_secondary]
+enable = true
+label = "Demo"
+link = "/demo"
 
 # Navigation button
 [navigation_button_linked]
