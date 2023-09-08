@@ -8,9 +8,9 @@ With our interactive demo, you can easily try out Myopiagraph. However, we recom
 
 You can either create your own user to add patients yourself or log in with the test user to view the demo patients.
 
-[Gratis Demo anfordern](/contact)
+[Free Demo](/contact)
 
-## Testuser mit Demo-Patienten
+## Testuser with Demo-Patients
 
 **Testuser**
 
@@ -23,7 +23,7 @@ demo2323!
 Link:
 [https://demo.myopiagraph.com/](https://demo.myopiagraph.com/)
 
-## Eigener User
+## Own User
 
 Link:
 [https://demo.myopiagraph.com/register](https://myopiagraph-demo.fief.dev/register)

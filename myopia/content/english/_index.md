@@ -4,10 +4,10 @@ banner:
   enable : true
   title : "Myopiagraph is a software for **Myopia management**"
   content : "supporting doctors in reducing the worsening of short-sightedness in children and future risks."
-  image : "images/screenshots/banner-shot.png"
+  image : "images/screenshots/myopia-main.png"
   video:
     enable : true
-    video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
+    video_embed_link : "https://www.youtube.com/embed/3DeQj1mXsbo?si=Kkg1CcHdsWRDH0Cn"
   form:
     enable : true
     form_action : "https://formspree.io/f/xeqwvqbl"
