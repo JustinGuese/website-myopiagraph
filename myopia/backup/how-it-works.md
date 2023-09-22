@@ -5,7 +5,7 @@ layout : "how-it-works"
 draft : false
 ---
 
-{{< section-1 image="images/screenshots/how-it-works-1.jpg">}}
+{{< section-1 image="images/screenshots/how-it-works-1.png">}}
 ## Task **Management**
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores etea
 {{</ section-1 >}}

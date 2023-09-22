@@ -16,7 +16,7 @@ banner:
     enable : true
     # icon : "images/brands/google.png"
     label : "Gratis 14-tägiger Testzeitraum"
-    link : "https://v2.myopiagraph.com"
+    link : "/de/contact"
     content : "Keine Kreditkarte erforderlich. Sie werden vor Ablauf des Testzeitraums kontaktiert, um einen Abonnementplan zu besprechen."
 
 
@@ -48,7 +48,7 @@ homepage_tab:
   # tab item
   - name : "Visualisierung der Myopieprogression"
     title : "**Visualisierung** der Myopieprogression"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/how-it-works-1.png"
     content : "Gewinnen Sie mit unseren fortschrittlichen Visualisierungswerkzeugen unvergleichliche Einblicke in die Myopieentwicklung Ihrer Patienten. Myopiagraph bietet eine übersichtliche Darstellung der Achsenlängenwerte in Abhängigkeit vom Alter sowie Schwellenwertindikatoren, die Ihnen helfen, fundierte Entscheidungen über die Behandlung zu treffen. Beobachten Sie die Wachstumstrends, die durch aktuelle Forschungsergebnisse unterstützt werden."
     button:
       enable : true
@@ -58,7 +58,7 @@ homepage_tab:
   # tab item
   - name : "Patientenzentrierte PDF-Berichte"
     title : "Patientenzentrierte **PDF-Berichte**"
-    image : "images/screenshots/03.png"
+    image : "images/screenshots/screenshot-report.png"
     content : "Verbessern Sie das Verständnis und das Engagement Ihrer Patienten mit unseren druckbaren PDF-Berichten. Diese umfassenden Dokumente geben den Patienten einen visuellen Überblick über ihren Myopiestatus und ermutigen sie, Myopie-Behandlungsoptionen in Betracht zu ziehen, die möglicherweise nicht von den üblichen deutschen Versicherungsplänen abgedeckt werden. Befähigen Sie Ihre Patienten, ihre Augengesundheit selbst in die Hand zu nehmen."
     button:
       enable : true
@@ -78,7 +78,7 @@ homepage_tab:
   # tab item
   - name : "Nahtlose SaaS-Erfahrung"
     title : "**Sorgenfreies** hosting"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/how-it-works-1.png"
     content : "Verabschieden Sie sich von den Sorgen um Hosting, Backup und Betriebszeit. Myopiagraph ist eine Software-as-a-Service (SaaS)-Lösung, die für einen problemlosen Betrieb ausgelegt ist. Konzentrieren Sie sich auf die Patientenbetreuung, während wir uns um die technischen Aspekte kümmern. Genießen Sie eine zuverlässige, immer verfügbare Plattform, die Ihren Arbeitsablauf vereinfacht.
 
 Myopiagraph ist nicht nur ein Werkzeug, sondern ein Partner in Ihrer Mission, die Myopie zu bekämpfen und die Sehkraft künftiger Generationen zu schützen. Treten Sie der Myopiagraph-Gemeinschaft bei und verbessern Sie noch heute Ihre Praxis der Myopiebehandlung."

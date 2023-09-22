@@ -16,7 +16,7 @@ banner:
     enable : true
     # icon : "images/brands/google.png"
     label : "Free 14 day demo access"
-    link : "https://v2.myopiagraph.com"
+    link : "/contact"
     content : "No credit card required. You will be contacted before the end of the trial period to discuss a subscription plan."
 
 
@@ -48,7 +48,7 @@ homepage_tab:
   # tab item
   - name : "Visualize Myopia Progression"
     title : "**Visualize** Myopia Progression"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/how-it-works-1.png"
     content : "Gain unparalleled insights into your patients' myopia progression with our advanced visualization tools. Myopiagraph provides a clear representation of axial length values matched with age, complete with threshold indicators to help you make informed decisions about treatment. Witness the growth trends, all supported by current research."
     button:
       enable : true
@@ -58,7 +58,7 @@ homepage_tab:
   # tab item
   - name : "Patient-Centric PDF Reports"
     title : "Patient-Centric PDF **Reports**"
-    image : "images/screenshots/03.png"
+    image : "images/screenshots/screenshot-report.png"
     content : "Enhance patient understanding and engagement with our printable PDF reports. These comprehensive documents provide patients with a visual overview of their myopia status, encouraging them to consider myopia treatment options that may not be covered by standard German insurance plans. Empower your patients to take charge of their eye health."
     button:
       enable : true
@@ -78,7 +78,7 @@ homepage_tab:
   # tab item
   - name : "Seamless SaaS Experience"
     title : "**Worry free** hosting"
-    image : "images/screenshots/how-it-works-1.jpg"
+    image : "images/screenshots/how-it-works-1.png"
     content : "Say goodbye to hosting, backup, and uptime concerns. Myopiagraph is a Software as a Service (SaaS) solution, designed for hassle-free operation. Focus on patient care while we handle the technical aspects. Enjoy a reliable, always-on platform that simplifies your workflow.
 
 Myopiagraph is not just a tool; it's a partner in your mission to combat myopia and protect the vision of future generations. Join the Myopiagraph community and elevate your myopia management practice today."
