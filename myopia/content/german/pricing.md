@@ -45,8 +45,8 @@ pricing_card:
 - name : "Enterprise"
   content : "Ideal für alle, die ihre Myopia-Verwaltung auf die nächste Stufe heben wollen, einschließlich Backups, Compliance- und Kollaborationsfunktionen."
   currency: ""
-  monthly_price : "Auf Anfrage"
-  yearly_price : "Auf Anfrage"
+  monthly_price : ""
+  yearly_price : ""
   featured : false
   button_label : "Kontakt"
   button_link : "/de/contact"
