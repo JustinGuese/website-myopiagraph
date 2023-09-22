@@ -30,23 +30,23 @@ pricing_card:
 - name : "Starter"
   content : "Der Einstiegsplan ist der ideale Ausgangspunkt für alle, die sich ernsthaft mit dem Thema Myopie auseinandersetzen."
   currency: "€"
-  monthly_price : "9"
-  yearly_price : "99"
+  monthly_price : "159"
+  yearly_price : "1499"
   featured : true
   button_label : "Gratis testen"
   button_link : "https://app.myopiagraph.com/"
   services:
   - "5 Benutzer"
-  - "Bis zu 100 Patienten inklusive, jeder weitere Patient wird mit 10€/Jahr berechnet"
+  - "Bis zu 50 Patienten inklusive, jeder weitere Patient wird mit 10€/Jahr berechnet"
   - "Alle Visualisierungs- und Tracking-Funktionen aktiviert"
   - "Gemeinsam genutzte Server"
   
 # pricing table
 - name : "Enterprise"
   content : "Ideal für alle, die ihre Myopia-Verwaltung auf die nächste Stufe heben wollen, einschließlich Backups, Compliance- und Kollaborationsfunktionen."
-  currency: "€"
-  monthly_price : "199"
-  yearly_price : "1499"
+  currency: ""
+  monthly_price : "Auf Anfrage"
+  yearly_price : "Auf Anfrage"
   featured : false
   button_label : "Kontakt"
   button_link : "/de/contact"

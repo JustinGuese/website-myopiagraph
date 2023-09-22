@@ -30,8 +30,8 @@ pricing_card:
 - name : "Starter"
   content : "The starter plan is the ideal starting point for everyone being serious about Myopia management."
   currency: "€"
-  monthly_price : "9"
-  yearly_price : "99"
+  monthly_price : "159"
+  yearly_price : "1499"
   featured : true
   button_label : "Start Free Trial"
   button_link : "https://app.myopiagraph.com/"
@@ -44,9 +44,9 @@ pricing_card:
 # pricing table
 - name : "Enterprise"
   content : "Ideal for everyone who wants to take their Myopia management to the next level including backups, compliance and collaboration features."
-  currency: "€"
-  monthly_price : "199"
-  yearly_price : "1499"
+  currency: ""
+  monthly_price : "On Request"
+  yearly_price : "On Request"
   featured : false
   button_label : "Contact us"
   button_link : "/contact"
