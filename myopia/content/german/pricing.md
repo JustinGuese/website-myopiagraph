@@ -11,39 +11,39 @@ draft : false
 # pricing card
 pricing_card:
 # pricing table
-- name : "Free"
-  content : "Der kostenlose Plan enthält alles, was man für den Anfang braucht."
+- name : "S"
+  content : "Der S-Plan enthält alles, was man für den Anfang braucht."
   currency: "€"
-  monthly_price : "0"
-  yearly_price : "0"
+  monthly_price : "125"
+  yearly_price : "799"
   featured : false
-  button_label : "Gratis testen"
-  button_link : "https://app.myopiagraph.com/"
+  button_label : "14 Tage gratis testen"
+  button_link : "/de/contact"
   services:
-  - "1 Benutzer"
-  - "Bis zu 10 Patienten"
-  - "Alle Visualisierungs- und Nachverfolgungsfunktionen aktiviert"
-  - "Wasserzeichen auf Berichten"
-  - "Gemeinsam genutzte Server"
+  - "1 User"
+  - "50 Patienten inbegriffen, jeder weitere Patient wird mit 20€/Jahr berechnet"
+  - "Myopiagraph Logo auf Berichten"
+  - "Geteilte server"
+  - "Email-Support, Antwort innerhalb von 3 Werktagen"
   
 # pricing table
-- name : "Starter"
-  content : "Der Einstiegsplan ist der ideale Ausgangspunkt für alle, die sich ernsthaft mit dem Thema Myopie auseinandersetzen."
+- name : "M"
+  content : "Der M-Plan ist der ideale Ausgangspunkt für alle, die sich ernsthaft mit dem Thema Myopie auseinandersetzen."
   currency: "€"
-  monthly_price : "159"
-  yearly_price : "1499"
+  monthly_price : "199"
+  yearly_price : "1599"
   featured : true
-  button_label : "Gratis testen"
-  button_link : "https://app.myopiagraph.com/"
+  button_label : "Kontakt"
+  button_link : "/de/contact"
   services:
-  - "5 Benutzer"
-  - "Bis zu 50 Patienten inklusive, jeder weitere Patient wird mit 10€/Jahr berechnet"
-  - "Alle Visualisierungs- und Tracking-Funktionen aktiviert"
-  - "Gemeinsam genutzte Server"
+  - "5 User"
+  - "300 Patienten eingeschlossen, jeder weitere Patient wird mit 10€/Jahr berechnet"
+  - "Email- und Telefon-Support, Antwort innerhalb von 3 Werktagen"
+  - "Geteilte server"
   
 # pricing table
-- name : "Enterprise"
-  content : "Ideal für alle, die ihre Myopia-Verwaltung auf die nächste Stufe heben wollen, einschließlich Backups, Compliance- und Kollaborationsfunktionen."
+- name : "Individuell"
+  content : "Ihnen fehlt in den Plänen etwas? Wir erstellen Ihnen gerne ein individuelles Angebot."
   currency: ""
   monthly_price : ""
   yearly_price : ""
@@ -51,11 +51,14 @@ pricing_card:
   button_label : "Kontakt"
   button_link : "/de/contact"
   services:
-  - "Unbegrenzte Anzahl von Benutzern"
+  - "Unlimitierte User"
+  - "Unlimitierte Patienten"
   - "Erweiterte Sicherungs- und Wiederherstellungsfunktionen"
-  - "Compliance-Funktionen wie Audit-Protokolle und Datenexport"
-  - "10 Jahre Datenaufbewahrung zur Erfüllung gesetzlicher Anforderungen"
-  - "Dedizierte Server"
+  - "Compliance-Funktionen wie Prüfprotokolle und Datenexport"
+  - "10 Jahre Datenspeicherung zur Erfüllung gesetzlicher Anforderungen"
+  - "Dedizierter server"
+  - "Schnell-Support"
+  - "Ab 5000€/Jahr"
 
 ---
 
