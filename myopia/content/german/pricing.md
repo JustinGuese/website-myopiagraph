@@ -4,7 +4,7 @@ description : "this is meta description"
 layout : "pricing"
 offer : "Sparen Sie bis zu 50% bei Jahresplänen"
 # you can set only monthly, only yearly, or toggle both
-monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
+monthly_yearly_toggle: "yearly" # available value "monthly"/"yearly"/"toggle"
 draft : false
 
 
