@@ -2,7 +2,7 @@
 title : "Pricing"
 description : "this is meta description"
 layout : "pricing"
-offer : "Sparen Sie bis zu 50% bei Jahresplänen"
+offer : ""
 # you can set only monthly, only yearly, or toggle both
 monthly_yearly_toggle: "yearly" # available value "monthly"/"yearly"/"toggle"
 draft : false
@@ -23,8 +23,8 @@ pricing_card:
   - "1 User"
   - "50 Patienten inbegriffen, jeder weitere Patient wird mit 20€/Jahr berechnet"
   - "Myopiagraph Logo auf Berichten"
-  - "Geteilte server"
   - "Email-Support, Antwort innerhalb von 3 Werktagen"
+  - "Geteilte server"
   
 # pricing table
 - name : "M"
