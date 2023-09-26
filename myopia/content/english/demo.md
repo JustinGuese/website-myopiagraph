@@ -10,7 +10,7 @@ With our interactive demo, you can easily try out Myopiagraph. However, we recom
 
 **Recommended**
 
-[Free Myopiagraph onboarding call](/contact)
+[Free Myopiagraph onboarding call](/de/contact)
 
 -- or -- 
 

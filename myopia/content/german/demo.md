@@ -10,7 +10,7 @@ Mit unserer interaktiven Demo können Sie Myopiagraph ganz einfach ausprobieren.
 
 **Empfohlen**
 
-[Gratis Myopiagraph Einführungs-Gespräch](/de/contact)
+[Gratis Myopiagraph Einführungs-Gespräch](/contact)
 
 -- or -- 
 

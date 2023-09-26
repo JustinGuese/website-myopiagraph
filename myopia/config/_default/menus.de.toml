@@ -6,60 +6,38 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
-weight = 2
-
-[[main]]
-name = "FAQ"
-url = "faq/"
-weight = 3
-
-[[main]]
-name = "Pricing"
+name = "Preise"
 url = "pricing/"
 weight = 4
 
 [[main]]
-name = "Blog"
-url = "blog/"
-weight = 5
-
-[[main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact/"
 weight = 6
 
 [[main]]
-name = "Legal"
+name = "Rechtliches"
 weight = 7
 hasChildren = true
+
   
   [[main]]
-  parent = "Legal"
-  name = "Testimonials"
-  url = "testimonial/"
-  
-  [[main]]
-  name = "Terms & Conditions"
+  name = "AGB"
   url = "terms-conditions/"
-  parent = "Legal"
+  parent = "Rechtliches"
 
   [[main]]
-  name = "Imprint"
+  name = "Impressum"
   url = "imprint/"
-  parent = "Legal"
+  parent = "Rechtliches"
 
   [[main]]
-  name = "Privacy Policy"
+  name = "Datenschutz"
   url = "privacy-policy/"
-  parent = "Legal"
+  parent = "Rechtliches"
 
 # Footer menu
-[[footer]]
-name = "Faq"
-url = "faq/"
-weight = 1
+
 
 [[footer]]
 name = "Terms & Conditions"

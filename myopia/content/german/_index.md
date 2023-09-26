@@ -4,10 +4,10 @@ banner:
   enable : true
   title : "Myopiagraph ist eine Software für **Myopiemanagement**."
   content : "die Ärzte dabei unterstützt, die Verschlimmerung der Kurzsichtigkeit bei Kindern und zukünftige Risiken zu verringern."
-  image : "images/screenshots/banner-shot.png"
+  image : "images/screenshots/myopia-main.png"
   video:
     enable : true
-    video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
+    video_embed_link : "https://www.youtube.com/embed/3DeQj1mXsbo?si=Kkg1CcHdsWRDH0Cn"
   form:
     enable : true
     form_action : "https://formspree.io/f/xeqwvqbl"
@@ -16,7 +16,7 @@ banner:
     enable : true
     # icon : "images/brands/google.png"
     label : "Gratis 14-tägiger Testzeitraum"
-    link : "/de/contact"
+    link : "/demo"
     content : "Keine Kreditkarte erforderlich. Sie werden vor Ablauf des Testzeitraums kontaktiert, um einen Abonnementplan zu besprechen."
 
 
@@ -140,7 +140,7 @@ workflow:
   enable : true
   title : "Sie wissen nicht, **wo** und **wie** Sie anfangen sollen?"
   image : "images/screenshots/03.png"
-  content : "[Kontaktieren Sie uns für ein kostenloses 15-minütiges Einführungsgespräch](/de/contact), um mehr über Myopiagraph zu erfahren und wie es Ihnen in Ihrer Praxis helfen kann. Wir beantworten gerne alle Fragen, die Sie haben."
+  content : "[Kontaktieren Sie uns für ein kostenloses 15-minütiges Einführungsgespräch](/contact), um mehr über Myopiagraph zu erfahren und wie es Ihnen in Ihrer Praxis helfen kann. Wir beantworten gerne alle Fragen, die Sie haben."
   
 
 ############################## about us ################################

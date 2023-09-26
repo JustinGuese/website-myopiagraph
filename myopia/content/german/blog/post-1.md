@@ -5,7 +5,7 @@ date: 2020-03-14T15:40:24+06:00
 author: "Team Myopiagraph"
 description : "this is meta description"
 categories: ["Technology"]
-draft : false
+draft : true
 ---
 
 

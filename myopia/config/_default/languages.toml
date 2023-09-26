@@ -1,9 +1,20 @@
-################################### English language #####################################
-[en]
+################################### French language #####################################
+[de]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
+[de.params]
+footer_content = "Myopiagraph: Transforming myopia management with visual insights for doctors and patients, maximizing value in treatment and practice revenue."
+# copyright
+copyright = "Copyright by DataFortress.cloud UG"
+
+################################### English language #####################################
+[en]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 2
 [en.params]
 footer_content = "Myopiagraph: Transforming myopia management with visual insights for doctors and patients, maximizing value in treatment and practice revenue."
 # copyright
@@ -11,13 +22,3 @@ copyright = "Copyright by DataFortress.cloud UG"
 
 
 
-################################### French language #####################################
-[de]
-languageName = "De"
-languageCode = "de-de"
-contentDir = "content/german"
-weight = 2
-[de.params]
-footer_content = "Myopiagraph: Transforming myopia management with visual insights for doctors and patients, maximizing value in treatment and practice revenue."
-# copyright
-copyright = "Copyright by DataFortress.cloud UG"

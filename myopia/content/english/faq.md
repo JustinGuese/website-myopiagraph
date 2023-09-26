@@ -2,7 +2,7 @@
 title : "FAQ"
 description : "this is meta description"
 layout : "faq"
-draft : false
+draft : true
 ---
 
 ### How to start with Myopiagraph?

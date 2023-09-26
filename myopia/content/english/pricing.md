@@ -18,7 +18,7 @@ pricing_card:
   yearly_price : "799"
   featured : false
   button_label : "14 day Free Trial"
-  button_link : "/contact"
+  button_link : "/de/contact"
   services:
   - "1 User"
   - "50 patients included, every additional patient is billed 20€/year"
@@ -34,7 +34,7 @@ pricing_card:
   yearly_price : "1599"
   featured : true
   button_label : "Contact us"
-  button_link : "/contact"
+  button_link : "/de/contact"
   services:
   - "5 Users"
   - "300 patients included, every additional patient is billed 10€/year"
@@ -49,7 +49,7 @@ pricing_card:
   yearly_price : ""
   featured : false
   button_label : "Contact us"
-  button_link : "/contact"
+  button_link : "/de/contact"
   services:
   - "Unlimited Users"
   - "Unlimited patients"

@@ -18,7 +18,7 @@ pricing_card:
   yearly_price : "799"
   featured : false
   button_label : "14 Tage gratis testen"
-  button_link : "/de/contact"
+  button_link : "/contact"
   services:
   - "1 User"
   - "50 Patienten inbegriffen, jeder weitere Patient wird mit 20€/Jahr berechnet"
@@ -34,7 +34,7 @@ pricing_card:
   yearly_price : "1599"
   featured : true
   button_label : "Kontakt"
-  button_link : "/de/contact"
+  button_link : "/contact"
   services:
   - "5 User"
   - "300 Patienten eingeschlossen, jeder weitere Patient wird mit 10€/Jahr berechnet"
@@ -49,7 +49,7 @@ pricing_card:
   yearly_price : ""
   featured : false
   button_label : "Kontakt"
-  button_link : "/de/contact"
+  button_link : "/contact"
   services:
   - "Unlimitierte User"
   - "Unlimitierte Patienten"

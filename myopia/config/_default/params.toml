@@ -40,8 +40,8 @@ greetings_to = "Copper"
 # Navigation button
 [navigation_button_bordered]
 enable = true
-label = "Free Trial"
-link = "/free-trial"
+label = "Demo"
+link = "/demo"
 
 [navigation_button_bordered_secondary]
 enable = true
@@ -113,10 +113,10 @@ username = ""  # your username
 # Footer call to action
 [footer_call_to_action]
 enable = true
-title = "Join 25+ practices that use **Myopiagraph** to manage their myopia patients"
+title = "Schließen Sie sich 25+ Praxen an, die **Myopiagraph** zur Behandlung ihrer Myopie-Patienten verwenden"
 [footer_cta_button]
 enable = true
-label = "Free 14 day trial"
+label = "14-Tage kostenlos testen"
 link = "/contact"
 
 # site verifications
@@ -131,8 +131,8 @@ mastodon = "" # Your verification code
 [cookies]
 enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Diese Website verwendet Cookies. Durch die weitere Nutzung dieser Website erklären Sie sich mit deren Verwendung einverstanden."
+button = "Akzeptieren"
 
 ############################# social site ########################
 [[social]]
