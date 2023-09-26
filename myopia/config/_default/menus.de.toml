@@ -6,39 +6,46 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Preise"
+name = "About"
+url = "about_myopiagraph/"
+weight = 2
+
+[[main]]
+name = "Pricing"
 url = "pricing/"
 weight = 4
 
 [[main]]
-name = "Kontakt"
+name = "Contact"
 url = "contact/"
 weight = 6
 
 [[main]]
-name = "Rechtliches"
+name = "Legal"
 weight = 7
 hasChildren = true
-
   
   [[main]]
-  name = "AGB"
+  parent = "Legal"
+  name = "Testimonials"
+  url = "testimonial/"
+  
+  [[main]]
+  name = "Terms & Conditions"
   url = "terms-conditions/"
-  parent = "Rechtliches"
+  parent = "Legal"
 
   [[main]]
-  name = "Impressum"
+  name = "Imprint"
   url = "imprint/"
-  parent = "Rechtliches"
+  parent = "Legal"
 
   [[main]]
-  name = "Datenschutz"
+  name = "Privacy Policy"
   url = "privacy-policy/"
-  parent = "Rechtliches"
+  parent = "Legal"
 
 # Footer menu
-
-
 [[footer]]
 name = "Terms & Conditions"
 url = "terms-conditions/"

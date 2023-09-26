@@ -3,7 +3,7 @@
 banner:
   enable : true
   title : "Myopiagraph is a software for **Myopia management**"
-  content : "supporting doctors in reducing the worsening of short-sightedness in children and future risks."
+  content : "It was developed to provide a cost and time effective comprehensive myopia analysis to enable optimal myopia management for many physicians and thus for many children."
   image : "images/screenshots/myopia-main.png"
   video:
     enable : true
@@ -11,13 +11,13 @@ banner:
   form:
     enable : true
     form_action : "https://formspree.io/f/xeqwvqbl"
-    button_label : "Request a Demo"
+    button_label : "Request a Call"
   button:
     enable : true
     # icon : "images/brands/google.png"
-    label : "Free 14 day demo access"
-    link : "/contact"
-    content : "No credit card required. You will be contacted before the end of the trial period to discuss a subscription plan."
+    label : "Demo"
+    link : "/demo"
+    content : ""
 
 
 
@@ -43,27 +43,27 @@ clients_logo_slider:
 homepage_tab:
   enable : true
   title : "Key Features of **Myopiagraph**"
-  content : "Discover the four essential features that set Myopiagraph apart and make it the ultimate solution for myopia management:"
+  content : "Myopiagraph wurde entwickelt um eine kosten- und zeiteffektive und umfangreiche Myopieanalyse zu einem optimalen Myopie-Management für viele Ärzte, und damit für viele Kindern zu ermöglichen. <a target='_blank' href='https://doi.org/10.1016/j.preteyeres.2020.100923'>(NA Brennan et al. (2021))</a>"
   tablist:
   # tab item
   - name : "Visualize Myopia Progression"
     title : "**Visualize** Myopia Progression"
     image : "images/screenshots/how-it-works-1.png"
-    content : "Gain unparalleled insights into your patients' myopia progression with our advanced visualization tools. Myopiagraph provides a clear representation of axial length values matched with age, complete with threshold indicators to help you make informed decisions about treatment. Witness the growth trends, all supported by current research."
+    content : ""
     button:
       enable : true
       label : "View More"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
       
   # tab item
   - name : "Patient-Centric PDF Reports"
     title : "Patient-Centric PDF **Reports**"
     image : "images/screenshots/screenshot-report.png"
-    content : "Enhance patient understanding and engagement with our printable PDF reports. These comprehensive documents provide patients with a visual overview of their myopia status, encouraging them to consider myopia treatment options that may not be covered by standard German insurance plans. Empower your patients to take charge of their eye health."
+    content : "Enhance patient understanding and engagement with our printable PDF reports. These comprehensive documents provide patients with a visual overview of their myopia status, encouraging them to consider myopia treatment options."
     button:
       enable : true
       label : "View More"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
       
   # tab item
   - name : "Data Security and Compliance"
@@ -73,24 +73,22 @@ homepage_tab:
     button:
       enable : true
       label : "View More"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
       
   # tab item
   - name : "Seamless SaaS Experience"
     title : "**Worry free** hosting"
     image : "images/screenshots/how-it-works-1.png"
-    content : "Say goodbye to hosting, backup, and uptime concerns. Myopiagraph is a Software as a Service (SaaS) solution, designed for hassle-free operation. Focus on patient care while we handle the technical aspects. Enjoy a reliable, always-on platform that simplifies your workflow.
-
-Myopiagraph is not just a tool; it's a partner in your mission to combat myopia and protect the vision of future generations. Join the Myopiagraph community and elevate your myopia management practice today."
+    content : "Say goodbye to hosting, backup, and uptime concerns. Myopiagraph is a Software as a Service (SaaS) solution, designed for hassle-free operation. Focus on patient care while we handle the technical aspects. Enjoy a reliable, always-on platform that simplifies your workflow."
     button:
       enable : true
       label : "View More"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
 
 
 ############################## Tools in Use ########################
 tools:
-  enable : true
+  enable : false
   title : "Integrate the **tools you already use**"
   content : "Myopiagraph is just a software which is not classified as a medical device, therefore you can use it with any opthomological measurement device.
 Ophthalmology devices are measuring the eye length of the children, and the results are inserted into Myopiagraph, where they are visualized in a personalized manner according to their respective parameters in percentile curves from current research.
@@ -105,7 +103,7 @@ in the future, API connections are planned. "
 
 ############################## Achivement ##############################
 achivement:
-  enable : true
+  enable : false
   title : "Average yearly growth rate **across our clients**"
   content : "Myopiagraph has been developed as a product of necessity. A matching visualization software had been missing, and we have created a solution which works for every device available instead of being locked in to a specific device."
   funfacts:
@@ -140,7 +138,7 @@ workflow:
   enable : true
   title : "Don't know **where** and **how** to start?"
   image : "images/screenshots/03.png"
-  content : "[Contact us for a free 15 minute introductory call](/contact) to learn more about Myopiagraph and how it can help you in your practice. We will be happy to answer any questions you may have."
+  content : "[Contact us for a free 15 minute introductory call](/de/contact) to learn more about Myopiagraph and how it can help you in your practice. We will be happy to answer any questions you may have."
   
 
 ############################## about us ################################
@@ -158,7 +156,7 @@ about_us:
 
 ############################# Testimonial ############################
 testimonial:
-  enable : true
+  enable : false
   title : "What Our **Clients say**"
   content : "Myopiagraph helps practices implement myopia management in a way that is easy to understand for patients and parents."
   button:

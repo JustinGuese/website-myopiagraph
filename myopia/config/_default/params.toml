@@ -113,7 +113,7 @@ username = ""  # your username
 # Footer call to action
 [footer_call_to_action]
 enable = true
-title = "Schließen Sie sich 25+ Praxen an, die **Myopiagraph** zur Behandlung ihrer Myopie-Patienten verwenden"
+title = "Schließen Sie sich den Praxen an, die **Myopiagraph** zur Behandlung ihrer Myopie-Patienten verwenden"
 [footer_cta_button]
 enable = true
 label = "14-Tage kostenlos testen"

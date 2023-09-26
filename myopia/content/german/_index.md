@@ -2,8 +2,8 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Myopiagraph ist eine Software für **Myopiemanagement**."
-  content : "die Ärzte dabei unterstützt, die Verschlimmerung der Kurzsichtigkeit bei Kindern und zukünftige Risiken zu verringern."
+  title : "Myopiagraph ist ein webbasiertes Tool zur **Augenlängen- darstellung**"
+  content : "Es wurde entwickelt eine kosten-und zeiteffektive umfangreiche Myopieanalyse zu einem optimalen Myopie Management für viele Ärzte und damit für viele Kindern zu ermöglichen."
   image : "images/screenshots/myopia-main.png"
   video:
     enable : true
@@ -11,13 +11,13 @@ banner:
   form:
     enable : true
     form_action : "https://formspree.io/f/xeqwvqbl"
-    button_label : "Demo anfordern"
+    button_label : "Kontakt anfordern"
   button:
     enable : true
     # icon : "images/brands/google.png"
-    label : "Gratis 14-tägiger Testzeitraum"
+    label : "Demo"
     link : "/demo"
-    content : "Keine Kreditkarte erforderlich. Sie werden vor Ablauf des Testzeitraums kontaktiert, um einen Abonnementplan zu besprechen."
+    content : ""
 
 
 
@@ -43,27 +43,27 @@ clients_logo_slider:
 homepage_tab:
   enable : true
   title : "Hauptmerkmale von **Myopiagraph**"
-  content : "Entdecken Sie die vier wesentlichen Merkmale, die Myopiagraph auszeichnen und es zur ultimativen Lösung für das Myopie-Management machen:"
+  content : "Myopiagraph wurde entwickelt um eine kosten- und zeiteffektive und umfangreiche Myopieanalyse zu einem optimalen Myopie-Management für viele Ärzte, und damit für viele Kindern zu ermöglichen. <a target='_blank' href='https://doi.org/10.1016/j.preteyeres.2020.100923'>(NA Brennan et al. (2021))</a>"
   tablist:
   # tab item
   - name : "Visualisierung der Myopieprogression"
     title : "**Visualisierung** der Myopieprogression"
     image : "images/screenshots/how-it-works-1.png"
-    content : "Gewinnen Sie mit unseren fortschrittlichen Visualisierungswerkzeugen unvergleichliche Einblicke in die Myopieentwicklung Ihrer Patienten. Myopiagraph bietet eine übersichtliche Darstellung der Achsenlängenwerte in Abhängigkeit vom Alter sowie Schwellenwertindikatoren, die Ihnen helfen, fundierte Entscheidungen über die Behandlung zu treffen. Beobachten Sie die Wachstumstrends, die durch aktuelle Forschungsergebnisse unterstützt werden."
+    content : ""
     button:
       enable : true
       label : "Mehr erfahren"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
       
   # tab item
   - name : "Patientenzentrierte PDF-Berichte"
     title : "Patientenzentrierte **PDF-Berichte**"
     image : "images/screenshots/screenshot-report.png"
-    content : "Verbessern Sie das Verständnis und das Engagement Ihrer Patienten mit unseren druckbaren PDF-Berichten. Diese umfassenden Dokumente geben den Patienten einen visuellen Überblick über ihren Myopiestatus und ermutigen sie, Myopie-Behandlungsoptionen in Betracht zu ziehen, die möglicherweise nicht von den üblichen deutschen Versicherungsplänen abgedeckt werden. Befähigen Sie Ihre Patienten, ihre Augengesundheit selbst in die Hand zu nehmen."
+    content : "Verbessern Sie das Verständnis und das Engagement Ihrer Patienten mit unseren druckbaren PDF-Berichten. Diese umfassenden Dokumente geben den Patienten einen visuellen Überblick über ihren Myopiestatus und ermutigen sie eine myopie-hemmende Therapie anzugehen."
     button:
       enable : true
       label : "Mehr erfahren"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
       
   # tab item
   - name : "Datensicherheit und Compliance"
@@ -73,24 +73,22 @@ homepage_tab:
     button:
       enable : true
       label : "Mehr erfahren"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
       
   # tab item
   - name : "Nahtlose SaaS-Erfahrung"
     title : "**Sorgenfreies** hosting"
     image : "images/screenshots/how-it-works-1.png"
-    content : "Verabschieden Sie sich von den Sorgen um Hosting, Backup und Betriebszeit. Myopiagraph ist eine Software-as-a-Service (SaaS)-Lösung, die für einen problemlosen Betrieb ausgelegt ist. Konzentrieren Sie sich auf die Patientenbetreuung, während wir uns um die technischen Aspekte kümmern. Genießen Sie eine zuverlässige, immer verfügbare Plattform, die Ihren Arbeitsablauf vereinfacht.
-
-Myopiagraph ist nicht nur ein Werkzeug, sondern ein Partner in Ihrer Mission, die Myopie zu bekämpfen und die Sehkraft künftiger Generationen zu schützen. Treten Sie der Myopiagraph-Gemeinschaft bei und verbessern Sie noch heute Ihre Praxis der Myopiebehandlung."
+    content : "Verabschieden Sie sich von den Sorgen um Hosting, Backup und Betriebszeit. Myopiagraph ist eine Software-as-a-Service (SaaS)-Lösung, die für einen problemlosen Betrieb ausgelegt ist. Konzentrieren Sie sich auf die Patientenbetreuung, während wir uns um die technischen Aspekte kümmern."
     button:
       enable : true
       label : "Mehr erfahren"
-      link : "how-it-works"
+      link : "/about_myopiagraph"
 
 
 ############################## Tools in Use ########################
 tools:
-  enable : true
+  enable : false
   title : "Integrieren Sie die **Tools, die Sie bereits verwenden**"
   content : "Myopiagraph ist nur eine Software, die nicht als medizinisches Gerät klassifiziert ist, daher kann sie mit jedem opthomologischen Messgerät verwendet werden.
 Ophthalmologische Geräte messen die Augenlänge der Kinder, und die Ergebnisse werden in Myopiagraph eingefügt, wo sie auf personalisierte Weise entsprechend den jeweiligen Parametern in Perzentilenkurven aus der aktuellen Forschung visualisiert werden.
@@ -105,7 +103,7 @@ Für die Zukunft ist eine API-Anbindung geplant."
 
 ############################## Achivement ##############################
 achivement:
-  enable : true
+  enable : false
   title : "Durchschnittliche jährliche Wachstumsrate **über alle unsere Kunden**"
   content : "Myopiagraph ist aus der Not heraus entwickelt worden. Es fehlte eine passende Visualisierungssoftware, und wir haben eine Lösung geschaffen, die für jedes verfügbare Gerät funktioniert, anstatt auf ein bestimmtes Gerät festgelegt zu sein."
   funfacts:
@@ -158,7 +156,7 @@ about_us:
 
 ############################# Testimonial ############################
 testimonial:
-  enable : true
+  enable : false
   title : "Was unsere **Kunden sagen**"
   content : "Myopiagraph unterstützt Praxen bei der Umsetzung des Myopiemanagements auf eine für Patienten und Eltern leicht verständliche Weise."
   button:
