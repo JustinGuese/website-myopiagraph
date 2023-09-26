@@ -4,26 +4,26 @@ description : "this is meta description"
 draft : false
 ---
 
-**Myopiagraph**ist ein webbasiertes Tool zur Augenlängendarstellung. Es wurde entwickelt eine **kosten-und zeiteffektive umfangreiche Myopieanalyse zu einem optimalen Myopie Management**für viele Ärzte und damit für viele Kindern zu ermöglichen.
+**Myopiagraph** ist ein webbasiertes Tool zur Augenlängendarstellung. Es wurde entwickelt eine **kosten-und zeiteffektive umfangreiche Myopieanalyse zu einem optimalen Myopie Management** für viele Ärzte und damit für viele Kindern zu ermöglichen.
 Wie Brennan: Da die Augenlänge ist das bevorzugte Methode zur Erkennung und Verfolgung einer Myopieprogression, sollte Energie darauf gerichtet werden, kostengünstige Instrumente für diesen Zweck zur Verfügung zu stellen und die Ärzte sollten darauf hinarbeiten, die optische Biometrie in die Praxis zu integrieren [7].
 
 ## Warum ist das Myopia Management wichtig?
 
-Das **Risiko**für eine Augenerkrankung erhöht sich pro Dioptrie und pro Millimeter Augenlänge. Dieses besteht von myoper Makuladegeneration, Makulaloch, Netzhautablösung, Netzhautspaltung, Offenwinkelglaukoma und grauem Star [1].
+Das **Risiko** für eine Augenerkrankung erhöht sich pro Dioptrie und pro Millimeter Augenlänge. Dieses besteht von myoper Makuladegeneration, Makulaloch, Netzhautablösung, Netzhautspaltung, Offenwinkelglaukoma und grauem Star [1].
 
-Die **Prävalenz**von Kurzsichtigkeit hat sich international stark erhöht und eine weitere Zunahme ist zu erwarten. Die Zahl von Patienten mit einem Sehverlust durch starke Myopie könnte 7-fach von 2000 auf 2050 steigen, und damit wäre Myopie die leitende Ursache für bleibende Blindheit [2].
+Die **Prävalenz** von Kurzsichtigkeit hat sich international stark erhöht und eine weitere Zunahme ist zu erwarten. Die Zahl von Patienten mit einem Sehverlust durch starke Myopie könnte 7-fach von 2000 auf 2050 steigen, und damit wäre Myopie die leitende Ursache für bleibende Blindheit [2].
 
-Aus diesem Grund ist eine **myopiehemmende Therapie**mit niedrigdosierten Atropin Augentropfen, peripheren Defokusbrillen, multifokalen Kontaktlinsen oder mit orthokeratologischen Kontaktlinsen bei einer Myopieprogression empfohlen. Die potenzielle Vorteile durch die Verlangsamung der Kurzsichtigkeitszunahme und damit die Risikosenkung für Sehverlust überwiegt die Risiken von einer Therapie. Die Patientenzahl, welche man therapieren sollte, damit man 5 Jahre Sehverlust vorbeugen kann, liegt zwischen 4,1 und 6,8, wohingegen weniger als 1 von 38 Patienten eine Sehverschlechterung von myopiehemmende Therapie erfahren wird [3]. Die Verlangsamung von der Myopiezunahme mit einer Dioptrie sollte das Risiko für myope Makuladegeneration mit 40% Wahrscheinlichkeit erniedrigen [4].
+Aus diesem Grund ist eine **myopiehemmende Therapie** mit niedrigdosierten Atropin Augentropfen, peripheren Defokusbrillen, multifokalen Kontaktlinsen oder mit orthokeratologischen Kontaktlinsen bei einer Myopieprogression empfohlen. Die potenzielle Vorteile durch die Verlangsamung der Kurzsichtigkeitszunahme und damit die Risikosenkung für Sehverlust überwiegt die Risiken von einer Therapie. Die Patientenzahl, welche man therapieren sollte, damit man 5 Jahre Sehverlust vorbeugen kann, liegt zwischen 4,1 und 6,8, wohingegen weniger als 1 von 38 Patienten eine Sehverschlechterung von myopiehemmende Therapie erfahren wird [3]. Die Verlangsamung von der Myopiezunahme mit einer Dioptrie sollte das Risiko für myope Makuladegeneration mit 40% Wahrscheinlichkeit erniedrigen [4].
 
 ## Warum ist die Augenlängemessung bei Myopia Management wichtig?
 
-Die Augenlänge ist laut vielen Studien, der wichtigste Parameter, den man in der pre-Myopie und in-Myopie monitorisieren sollte [5]. Weiterhin ist es empfohlen, die Augenlänge als **primäres Therapieziel**für Myopia Management statt der Refraktion zu setzen [1].
+Die Augenlänge ist laut vielen Studien, der wichtigste Parameter, den man in der pre-Myopie und in-Myopie monitorisieren sollte [5]. Weiterhin ist es empfohlen, die Augenlänge als **primäres Therapieziel** für Myopia Management statt der Refraktion zu setzen [1].
 
-Die Empfehlung beruht sich darauf, dass die **okuläre Morbidität**viel mehr von der **Augenlänge**als von der Refraktion abhängt [7]. Am meisten anschaulich ist es bei der myopen Makulopathie zu sehen. Als der wichtigste Risikofaktor für myope Makuladegeneration in Erwachsenen wurde nicht die Refraktion weniger als -5,0D, sondern eher die Augenlänge über 25,3mm in Frauen und 25,9 in Männern befunden [6].
+Die Empfehlung beruht sich darauf, dass die **okuläre Morbidität** viel mehr von der **Augenlänge** als von der Refraktion abhängt [7]. Am meisten anschaulich ist es bei der myopen Makulopathie zu sehen. Als der wichtigste Risikofaktor für myope Makuladegeneration in Erwachsenen wurde nicht die Refraktion weniger als -5,0D, sondern eher die Augenlänge über 25,3mm in Frauen und 25,9 in Männern befunden [6].
 
-Weiterhin können **myopiehemmende Therapien**, wie Atropin und Orthokeratologie **refraktive Veränderungen**unabhängig von der Augenlänge verursachen, deshalb ist die Änderung von Refraktion nicht immer geeignet für Monitorisierung einer Myopieprogression [7].
+Weiterhin können **myopiehemmende Therapien**, wie Atropin und Orthokeratologie **refraktive Veränderungen** unabhängig von der Augenlänge verursachen, deshalb ist die Änderung von Refraktion nicht immer geeignet für Monitorisierung einer Myopieprogression [7].
 
-Die Wachstumsrate von der Augenlänge hängt von Alter, Geschlecht und Ethnizität ab, deshalb sollte die Augenlänge an publizierten **Augenlängenwachstumskurven**zur Beurteilung dargestellt werden [1].
+Die Wachstumsrate von der Augenlänge hängt von Alter, Geschlecht und Ethnizität ab, deshalb sollte die Augenlänge an publizierten **Augenlängenwachstumskurven** zur Beurteilung dargestellt werden [1].
 
 1. CCW Klaver et al. (2020), DOI: https://doi.org/10.1111/opo.12676
 
@@ -67,7 +67,7 @@ Die Augenlängenwerte ermöglichen:
 
 ## Warum ist Myopiagraph besonders?
 
-Myopiagraph wurde **speziell zu den Bedürfnissen von behandelnden AugenärztInnen** entwickelt, so dass es am besten in den täglichen Ablauf reinpasst. Es benötigt keine Neuanschaffung von einem Spezialgerät, was Kosten und Zeit bis zum Start spart. Die Patientdaten, inklusive Augenlängen-und Refraktionswerten und sogar allgemeine Risikofaktoren können durch Assistenzpersonal vorgefüllt werden. Der behandelnde ÄrztIn kann die Augenlänge anhand dargestellten Wachstumskurven und farbcodierter numerischen Analyse bei dem eigenen Computer bewerten. Man kann alle Befunde auf einmal gleichzeitig von einem Ort anschauen ohne zu einem bestimmten Messgerät im Voruntersuchungsräumen gehen zu müssen. Die ärztliche Beurteilung und die Therapiempfehlung kann schnell ausgefüllt und in einem Befund übertragen werden. Das **Befund**lässt sich in die elektronische Akte **speichern oder ausdrucken**.
+Myopiagraph wurde **speziell zu den Bedürfnissen von behandelnden AugenärztInnen** entwickelt, so dass es am besten in den täglichen Ablauf reinpasst. Es benötigt keine Neuanschaffung von einem Spezialgerät, was Kosten und Zeit bis zum Start spart. Die Patientdaten, inklusive Augenlängen-und Refraktionswerten und sogar allgemeine Risikofaktoren können durch Assistenzpersonal vorgefüllt werden. Der behandelnde ÄrztIn kann die Augenlänge anhand dargestellten Wachstumskurven und farbcodierter numerischen Analyse bei dem eigenen Computer bewerten. Man kann alle Befunde auf einmal gleichzeitig von einem Ort anschauen ohne zu einem bestimmten Messgerät im Voruntersuchungsräumen gehen zu müssen. Die ärztliche Beurteilung und die Therapiempfehlung kann schnell ausgefüllt und in einem Befund übertragen werden. Das **Befund** lässt sich in die elektronische Akte **speichern oder ausdrucken**.
 
 Die Bedienung ist einfach und schnell. Myopiagraph erlaubt es sogar, **Vorbefunde** von Augenlängen- und Refraktionswerten als Excel-Tabelle leicht und schnell ins Programm **aufzuladen**, was eine Beurteilung für längere Zeitraum ohne Zeitverlust von der Sprechstunde ermöglicht. Eine Excel-Tabelle von diesen Werten lässt sich einfach von den meisten elektronischen Krankenakten zu speichern.
 

@@ -17,7 +17,7 @@ pricing_card:
   monthly_price : "125"
   yearly_price : "799"
   featured : false
-  button_label : "14 day Free Trial"
+  button_label : "Contact us"
   button_link : "/de/contact"
   services:
   - "1 User"

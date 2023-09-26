@@ -145,7 +145,7 @@ workflow:
 about_us:
   enable : true
   title : "Wer sind wir und **Was ist unser Hintergrund?**"
-  image : "images/about/01.jpg"
+  image : "images/about/doc.jpg"
   content : "Wir sind ein Zusammenschluss eines Augenarztes und einer Softwarefirma mit Erfahrung und Kunden im medizinischen Bereich."
   bulletpoints:
     - "Entwicklung eines Data Warehouse für eine international führende Fastenklinik"

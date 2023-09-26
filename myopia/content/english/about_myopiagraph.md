@@ -3,20 +3,21 @@ title : "About Myopiagraph"
 description : "this is meta description"
 draft : false
 ---
-**Myopiagraph** is a web-based tool for eye length imaging. It is designed to provide a **cost and time effective comprehensive myopia analysis to enable optimal myopia management**for many clinicians and thus for many children.
+
+**Myopiagraph** is a web-based tool for eye length imaging. It is designed to provide a **cost and time effective comprehensive myopia analysis to enable optimal myopia management** for many clinicians and thus for many children.
 As Brennan states, "Since eye length is the preferred method for detecting and tracking myopia progression, energy should be directed toward providing cost-effective tools for this purpose and physicians should work toward integrating optical biometry into practice [7].
 
 ## Why is myopia management important?
 
-The **risk**of eye disease increases per diopter and per millimeter of eye length. This consists of myopic macular degeneration, macular hole, retinal detachment, retinal splitting, open-angle glaucoma, and cataracts [1].
+The **risk** of eye disease increases per diopter and per millimeter of eye length. This consists of myopic macular degeneration, macular hole, retinal detachment, retinal splitting, open-angle glaucoma, and cataracts [1].
 
-The **prevalence**of myopia has greatly increased internationally and a further increase is expected. The number of patients with visual loss due to severe myopia could increase 7-fold from 2000 to 2050, making myopia the leading cause of permanent blindness [2].
+The **prevalence** of myopia has greatly increased internationally and a further increase is expected. The number of patients with visual loss due to severe myopia could increase 7-fold from 2000 to 2050, making myopia the leading cause of permanent blindness [2].
 
-For this reason, **myopia-inhibiting therapy**with low-dose atropine eye drops, peripheral defocus glasses, multifocal contact lenses, or with orthokeratologic contact lenses is recommended for myopia progression. The potential benefits of slowing myopia progression and thus reducing the risk of vision loss outweigh the risks of therapy. The number of patients who should receive therapy to prevent 5 years of vision loss ranges from 4.1 to 6.8, whereas less than 1 in 38 patients will experience vision deterioration from myopia-inhibiting therapy [3]. The slowing of myopia increase with one diopter should lower the risk of myopic macular degeneration with 40% probability [4].
+For this reason, **myopia-inhibiting therapy** with low-dose atropine eye drops, peripheral defocus glasses, multifocal contact lenses, or with orthokeratologic contact lenses is recommended for myopia progression. The potential benefits of slowing myopia progression and thus reducing the risk of vision loss outweigh the risks of therapy. The number of patients who should receive therapy to prevent 5 years of vision loss ranges from 4.1 to 6.8, whereas less than 1 in 38 patients will experience vision deterioration from myopia-inhibiting therapy [3]. The slowing of myopia increase with one diopter should lower the risk of myopic macular degeneration with 40% probability [4].
 
 ## Why is eye length measurement important in myopia management?
 
-Eye length is according to many studies, the most important parameter to monitor in pre-myopia and in-myopia [5]. Furthermore, it is recommended to set eye length as **primary therapeutic goal**for myopia management instead of refraction [1].
+Eye length is according to many studies, the most important parameter to monitor in pre-myopia and in-myopia [5]. Furthermore, it is recommended to set eye length as **primary therapeutic goal** for myopia management instead of refraction [1].
 The recommendation is based on the fact that **ocular morbidity** depends much more on **eye length** than on refraction [7]. It is most vividly seen in myopic maculopathy. The most important risk factor for myopic macular degeneration in adults was found to be not refraction less than -5.0D, but rather eye length greater than 25.3mm in women and 25.9 in men [6].
 
 Furthermore, **myopia inhibiting therapies**, such as atropine and orthokeratology can cause **refractive changes** independent of eye length, therefore change of refraction is not always suitable for monitoring myopia progression [7].

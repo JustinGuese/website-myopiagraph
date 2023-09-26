@@ -17,7 +17,7 @@ pricing_card:
   monthly_price : "125"
   yearly_price : "799"
   featured : false
-  button_label : "14 Tage gratis testen"
+  button_label : "Kontakt"
   button_link : "/contact"
   services:
   - "1 User"

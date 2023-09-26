@@ -145,7 +145,7 @@ workflow:
 about_us:
   enable : true
   title : "Who Are We And **What Is Our Background?**"
-  image : "images/about/01.jpg"
+  image : "images/about/doc.jpg"
   content : "We are a colaboration of an opthomologic doctor and a software company with experience and customers in the medical area."
   bulletpoints:
     - "Developed a data warehouse for an international leading fasting clinic"
