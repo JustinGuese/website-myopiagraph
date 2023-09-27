@@ -10,9 +10,10 @@ With our interactive demo, you can easily try out Myopiagraph. However, we recom
 
 **Recommended**
 
-[Free Myopiagraph onboarding call](/de/contact)
+<a href="/de/contact" ><button class="btn btn-primary">Free Myopiagraph onboarding call</button></a>
 
 -- or -- 
 
-[Try it yourself (Demo-Registration)](https://demo.myopiagraph.com/)
-*The registration is done through "Fief", our user management system.*
+<a href="https://demo.myopiagraph.com/" target="_blank"><button class="btn btn-primary">Try it yourself (Demo-Registration)</button></a>
+
+*The account creation is managed by our user management system "Fief". After the successful email confirmation you will be redirected directly to the demo, or you can always click here again on the button above, or save the address https://demo.myopiagraph.com. The login should be saved after a single registration.*

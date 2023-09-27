@@ -116,8 +116,8 @@ enable = true
 title = "Schließen Sie sich den Praxen an, die **Myopiagraph** zur Behandlung ihrer Myopie-Patienten verwenden"
 [footer_cta_button]
 enable = true
-label = "14-Tage kostenlos testen"
-link = "/contact"
+label = "Gratis Demo"
+link = "/demo"
 
 # site verifications
 [site_verification]

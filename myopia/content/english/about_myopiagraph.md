@@ -24,19 +24,13 @@ Furthermore, **myopia inhibiting therapies**, such as atropine and orthokeratolo
 
 The growth rate of eye length depends on age, gender and ethnicity, therefore eye length should be presented on published **eye length growth curves** for assessment [1].
 
-1. CCW Klaver et al. (2020), DOI: https://doi.org/10.1111/opo.12676
-
-2. BA Holden et al. (2016), DOI: https://doi.org/10.1016/j.ophtha.2016.01.006
-
-3. MA Bullimore et al. (2021), DOI: https://doi.org/10.1016/j.ophtha.2021.04.032
-
-4. MA Bullimore et al. (2019), DOI: 10.1097/OPX.0000000000001367
-
-5. J Nemeth et al. (ESO&IMI, 2021), DOI: 10.1177/1120672121998960
-
-6. S Hashimoto et al. (2019), DOI: 10.1016/j.oret.2019.04.023
-
-7. NA Brennan et al. (2021), DOI: https://doi.org/10.1016/j.preteyeres.2020.100923
+1. <small>CCW Klaver et al. (2020), DOI: doi.org/10.1111/opo.12676</small>
+2. <small>BA Holden et al. (2016), DOI: doi.org/10.1016/j.ophtha.2016.01.006</small>
+3. <small>MA Bullimore et al. (2021), DOI: doi.org/10.1016/j.ophtha.2021.04.032</small>
+4. <small>MA Bullimore et al. (2019), DOI: 10.1097/OPX.0000000000001367</small>
+5. <small>J Nemeth et al. (ESO&IMI, 2021), DOI: 10.1177/1120672121998960</small>
+6. <small>S Hashimoto et al. (2019), DOI: 10.1016/j.oret.2019.04.023</small>
+7. <small>NA Brennan et al. (2021), DOI: doi.org/10.1016/j.preteyeres.2020.100923</small>
 
 ## How to assess eye length?
 
@@ -52,17 +46,12 @@ Eye length values allow:
 
 - **Monitoring of therapy response**: A good therapy response is assumed if the percentile position remains stable or decreases if necessary. If percentile position continues to increase, therapy intensification is recommended [1]. If the annual eye length increase is physiological, our therapy target is reached, if the growth rate is still higher than the 50th percentile, the therapy should be intensified [1,5,6].
 
-1. J Saw (2023), https://www.myopiaprofile.com/articles/back-to-basics-axial-length-measurement
-
-2. CCW Klaver et al. (2020), DOI: https://doi.org/10.1111/opo.12676
-
-3. KL Gifford et al. (2019), DOI: [10.1167/iovs.18-25977](https://doi.org/10.1167/iovs.18-25977)
-
-4. JWL Tideman et al. (2018), DOI: https://doi.org/10.1111/aos.13603
-
-5. J Nemeth et al. (ESO&IMI, 2021), DOI: 10.1177/112067212199896
-
-6. NA Brennan et al. (2021), DOI: [https://doi.org/10.1016/j.preteyeres.2020.100923](https://doi.org/10.1016/j.preteyeres.2020.100923)
+1. <small>J Saw (2023), www.myopiaprofile.com/articles/back-to-basics-axial-length-measurement</small>
+2. <small>CCW Klaver et al. (2020), DOI: doi.org/10.1111/opo.12676</small>
+3. <small>KL Gifford et al. (2019), DOI: doi.org/10.1167/iovs.18-25977</small>
+4. <small>JWL Tideman et al. (2018), DOI: doi.org/10.1111/aos.13603</small>
+5. <small>J Nemeth et al. (ESO&IMI, 2021), DOI: 10.1177/112067212199896</small>
+6. <small>NA Brennan et al. (2021), DOI: doi.org/10.1016/j.preteyeres.2020.100923</small>
 
 ## Why is Myopiagraph special?
 
@@ -74,11 +63,9 @@ Eye length values of **Caucasian children** are color-coded on the well-known gr
 
 Myopiagraph is a web-based software, therefore you should not worry about the waiting time for a device delivery and space requirements of a device. Measurement data can be viewed from multiple locations within an organization, which can mean relevant travel time savings for patients.
 
-1. JWL Tideman et al. (2018), DOI: https://doi.org/10.1111/aos.13603
-
-2. C Truckenbrod et al. (2021), DOI: https://doi.org/10.1111/opo.12817
-
-3. P Sanz Diez et al. (2022), DOI: 10.1038/s41598-022-08907-5
+1. <small>JWL Tideman et al. (2018), DOI: doi.org/10.1111/aos.13603</small>
+2. <small>C Truckenbrod et al. (2021), DOI: doi.org/10.1111/opo.12817</small>
+3. <small>P Sanz Diez et al. (2022), DOI: 10.1038/s41598-022-08907-5</small>
 
 ## Data security and compliance
 

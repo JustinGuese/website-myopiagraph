@@ -10,9 +10,10 @@ Mit unserer interaktiven Demo können Sie Myopiagraph ganz einfach ausprobieren.
 
 **Empfohlen**
 
-[Gratis Myopiagraph Einführungs-Gespräch](/contact)
+<a href="/contact" ><button class="btn btn-primary">Gratis Onboarding Gespräch vereinbaren</button></a>
 
--- or -- 
+-- oder -- 
 
-[Direkt ausprobieren (Demo-Registration)](https://demo.myopiagraph.com/)
-*Die Registration erfolgt über "Fief", unser User-Management System.*
+<a href="https://demo.myopiagraph.com/" target="_blank"><button class="btn btn-primary">Direkt die Demo ausprobieren (benötigt eine Account-Erstellung)</button></a>
+
+*Die Account-Erstellung wird durch unser User-Management System "Fief" verwaltet. Nach der erfolgreichen E-Mail Bestätigung werden sie direkt auf die Demo weitergeleitet, oder können jederzeit erneut hier auf den Knopf oben klicken, oder sich die Adresse https://demo.myopiagraph.com speichern. Der Login sollte nach einmaliger Anmeldung gespeichert bleiben.*
