@@ -20,7 +20,7 @@
   translation: E-Mail
   
 - id: website
-  translation: Webseite (optional)
+  translation: Company Webseite
   
 - id: message
   translation: Nachricht
