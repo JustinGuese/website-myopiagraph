@@ -7,7 +7,7 @@ banner:
   image : "images/screenshots/myopia-main.png"
   video:
     enable : true
-    video_embed_link : "https://www.youtube.com/embed/3DeQj1mXsbo?si=Kkg1CcHdsWRDH0Cn"
+    video_embed_link : "https://www.youtube.com/embed/wZsStXkfbi0?si=oKOXR5MKhEPZrfNL"
   form:
     enable : true
     form_action : "https://formspree.io/f/xeqwvqbl"
