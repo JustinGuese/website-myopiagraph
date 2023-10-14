@@ -83,18 +83,41 @@
 <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6182737&fmt=gif" />
 </noscript>
 
-<!-- contactform tracking code -->
+<!-- contactform tracking code google and linkedin  -->
 <script>
   // Wait for the DOM to be fully loaded
   document.addEventListener('DOMContentLoaded', function() {
     // Select the submit button by its id
     var submitButton = document.getElementById('contactform-submit-button');
     
-    // Add a click event listener to the submit button
-    submitButton.addEventListener('click', function() {
-      // Call the window.lintrk function with the desired parameters
-      window.lintrk('track', { conversion_id: 15870409 });
+  // Function to track the Google Analytics conversion
+  function trackGoogleConversion() {
+    var callback = function () {
+      // Redirect to the desired URL after tracking the conversion
+      window.location = '{{site.Params.contact_form_redirect_url}}'; // Replace with your desired URL
+    };
+    gtag('event', 'conversion', {
+      'send_to': 'AW-11374906191/b0zDCKSOo-wYEM-W_a8q',
+      'event_callback': callback
     });
+  }
+
+  // Add a click event listener to the submit button
+  submitButton.addEventListener('click', function(event) {
+    // Prevent the default form submission
+    event.preventDefault();
+
+    // Call the window.lintrk function with the desired parameters
+    window.lintrk('track', { conversion_id: 15870409 });
+
+    // Call the Google Analytics conversion tracking function
+    trackGoogleConversion();
+
+    // Optionally, you can submit the form programmatically after tracking
+    // This can be useful if you still want the form to be submitted
+    // after tracking the conversion.
+    // document.querySelector('form').submit();
   });
+});
 </script>
 
