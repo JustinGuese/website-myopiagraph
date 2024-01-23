@@ -11,24 +11,20 @@
     </div>
     <div class="row justify-content-center">
       <div class="col-xl-6 col-lg-7">
-        <form method="POST" class="rounded shadow p-30" action="{{site.Params.contact_form_action}}">
+        <form method="POST" class="rounded shadow p-30" action="https://formspree.io/f/xbjndggv">
           <div class="form-group mb-30">
             <label class="h5 font-weight-600 mb-2" for="fname">{{ i18n "name"}}</label>
-            <input class="form-control shadow-none" type="text" placeholder="Marie Musterfrau" id="fname" required>
+            <input class="form-control shadow-none" name="name" type="text" placeholder="Marie Musterfrau" id="fname" required>
           </div>
           <div class="form-group mb-30">
             <label class="h5 font-weight-600 mb-2" for="email">{{i18n "mail"}}</label>
-            <input class="form-control shadow-none" type="email" placeholder="m.muster@gmail.com" id="email" required>
-          </div>
-          <div class="form-group mb-30">
-            <label class="h5 font-weight-600 mb-2" for="website">{{i18n "website"}}</label>
-            <input class="form-control shadow-none" type="text" placeholder="Webseite">
+            <input class="form-control shadow-none" name="email" type="email" placeholder="m.muster@gmail.com" id="email" required>
           </div>
           <div class="form-group mb-30">
             <label class="h5 font-weight-600 mb-2" for="message">{{ i18n "message"}}</label>
-            <textarea class="form-control shadow-none" name="comment" rows="3" id="message" required></textarea>
+            <textarea class="form-control shadow-none" name="message" rows="3" id="message" required></textarea>
           </div>
-          <button id="contactform-submit-button" class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
+          <button class="btn btn-primary w-100" type="submit">{{ i18n "submit"}}</button>
         </form>
       </div>
       <div class="col-xl-4 col-lg-5 mt-5 mt-lg-0">
