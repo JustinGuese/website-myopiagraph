@@ -11,11 +11,6 @@ url = "about_myopiagraph/"
 weight = 2
 
 [[main]]
-name = "Pricing"
-url = "pricing/"
-weight = 4
-
-[[main]]
 name = "Contact"
 url = "contact/"
 weight = 6
