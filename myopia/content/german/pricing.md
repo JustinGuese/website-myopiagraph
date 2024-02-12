@@ -62,6 +62,9 @@ pricing_card:
 
 ---
 
-## Die Wahl des richtigen **Plans**
+## Die Wahl des richtigen **Paketes**
 
-Ganz gleich, ob Sie mit dem Myopiemanagement beginnen oder umfassende Lösungen für die Einhaltung von Vorschriften benötigen, Myopiagraph bietet Ihnen alles, was Sie brauchen. Nutzen Sie unsere 14-tägige kostenlose Testversion, um einen Vorgeschmack auf die Möglichkeiten zu erhalten, oder entscheiden Sie sich für unseren Enterprise-Plan mit erweiterten Funktionen, die auf größere Organisationen und strenge Compliance-Anforderungen zugeschnitten sind.
+Ganz gleich, ob Sie mit dem Management Ihrer Myopie beginnen oder umfassende Lösungen für die Einhaltung der Vorschriften benötigen, Myopiagraph bietet Ihnen alles, was Sie brauchen. Nutzen Sie unsere 14-tägige kostenlose Testphase, um einen Eindruck von den Möglichkeiten zu gewinnen.
+
+[Kontaktieren Sie uns unter Kontakt, um Ihre Bedürfnisse zu besprechen und ein individuelles Angebot zu erhalten.](/contact)
+

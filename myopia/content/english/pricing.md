@@ -64,4 +64,6 @@ pricing_card:
 
 ## Choosing the right **Plan**
 
-Whether you're embarking on your myopia management journey or need comprehensive compliance solutions, Myopiagraph has you covered. Dive in with our 14-day free trial for a taste of what's possible, or opt for our Enterprise plan for advanced features tailored to larger organizations and stringent compliance needs.
+Whether you're embarking on your myopia management journey or need comprehensive compliance solutions, Myopiagraph has you covered. Dive in with our 14-day free trial for a taste of what's possible.
+
+Contact us at [/de/contact](/de/contact) to discuss your needs and get a personalized quote.
