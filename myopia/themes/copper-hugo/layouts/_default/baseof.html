@@ -14,6 +14,12 @@ AUTHOR WEBSITE: https://gethugothemes.com
 
 <body data-spy="scroll" data-bs-target="#navbar-spy" class="position-relative {{if not site.Params.preloader.enable}}{{end}}">
 	{{ partialCached "components/preloader.html" . }}
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDXTJ2S2"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
   {{ .Scratch.Set "bg" "bg-light-gray" }}
 	{{ partial "essential/header.html" . }}
 	<main>
